@@ -1,11 +1,15 @@
 ﻿CACHE MANIFEST
-#1410241699
+#1410249926
 index.html
 c2runtime.js
 jquery-2.0.0.min.js
-images\player-sheet0.png
+images\bird-sheet0.png
+images\tiledbackground.png
+images\tiledbackground2.png
+images\background-sheet0.png
+images\bottompipe-sheet0.png
+images\toppipe-sheet0.png
 images\sprite-sheet0.png
-images\scirralogo-sheet0.png
 icon-16.png
 icon-32.png
 icon-114.png
