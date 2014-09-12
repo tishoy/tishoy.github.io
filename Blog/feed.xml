@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.comtishoy.github.io/</link>
     <atom:link href="http://yourdomain.comtishoy.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 12 Sep 2014 22:39:56 +0800</pubDate>
-    <lastBuildDate>Fri, 12 Sep 2014 22:39:56 +0800</lastBuildDate>
+    <pubDate>Fri, 12 Sep 2014 23:15:09 +0800</pubDate>
+    <lastBuildDate>Fri, 12 Sep 2014 23:15:09 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -41,8 +41,8 @@
 &lt;/code&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Sep 2014 08:30:15 +0800</pubDate>
-        <link>http://yourdomain.comtishoy.github.io/welcome</link>
-        <guid isPermaLink="true">http://yourdomain.comtishoy.github.io/welcome</guid>
+        <link>http://yourdomain.comtishoy.github.io/jekyll/update/2014/09/12/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.comtishoy.github.io/jekyll/update/2014/09/12/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
