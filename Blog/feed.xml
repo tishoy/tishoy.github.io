@@ -4,14 +4,14 @@
     <title>TishoY&#39;s Blog</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 12 Sep 2014 00:38:53 +0800</pubDate>
-    <lastBuildDate>Fri, 12 Sep 2014 00:38:53 +0800</lastBuildDate>
+    <link>http://yourdomain.comtishoy.github.io/</link>
+    <atom:link href="http://yourdomain.comtishoy.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 12 Sep 2014 22:39:56 +0800</pubDate>
+    <lastBuildDate>Fri, 12 Sep 2014 22:39:56 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
+        <title>First Blog</title>
         <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
@@ -26,10 +26,23 @@
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
+&lt;p&gt;#hello&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;hihi&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;hi&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;code&gt;javascript
+	var  a =  hello；
+&lt;/code&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Sep 2014 08:30:15 +0800</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2014/09/12/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/09/12/welcome-to-jekyll.html</guid>
+        <link>http://yourdomain.comtishoy.github.io/welcome</link>
+        <guid isPermaLink="true">http://yourdomain.comtishoy.github.io/welcome</guid>
         
         
         <category>jekyll</category>
