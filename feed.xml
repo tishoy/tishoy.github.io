@@ -4,15 +4,15 @@
     <title>TishoY&#39;s Area</title>
     <description>TishoY&#39;s blog.
 </description>
-    <link>http://tishoy.github.io/</link>
-    <atom:link href="http://tishoy.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 13 Sep 2014 18:39:39 +0800</pubDate>
-    <lastBuildDate>Sat, 13 Sep 2014 18:39:39 +0800</lastBuildDate>
+    <link>http://tishoy.github.ioblog//</link>
+    <atom:link href="http://tishoy.github.ioblog//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 13 Sep 2014 18:46:24 +0800</pubDate>
+    <lastBuildDate>Sat, 13 Sep 2014 18:46:24 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Welcome to my new blog!</title>
-        <description>&lt;p&gt;这是第一篇来到这边的博文，以前的地址是&lt;a href=&quot;http://blog.sina.com.cn/blog&quot;&gt;新浪的博客&lt;/a&gt;。本来想第一篇就琐碎的写点什么就可以了，后来想到：搬家到这边也不太容易。前前后后花了三个晚上。所以打算把这途中遇到的问题之类的分享给大家。&lt;/p&gt;
+        <description>&lt;p&gt;这是第一篇来到这边的博文，以前的地址是&lt;a href=&quot;http://blog.sina.com.cn/tishoy&quot;&gt;新浪的博客&lt;/a&gt;。本来想第一篇就琐碎的写点什么就可以了，后来想到：搬家到这边也不太容易。前前后后花了三个晚上。所以打算把这途中遇到的问题之类的分享给大家。&lt;/p&gt;
 
 &lt;p&gt;起因：由于之前就不太喜欢新浪那边的博客，总是想着自己弄个域名，可又觉得繁琐。突然在网上看到了说使用jekyll创建博客，是写博客的&lt;a href=&quot;http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html&quot;&gt;第三阶段&lt;/a&gt;，还有什么像黑客一样写博客之类的，很感兴趣。进去大致了解了一下就决定搬家了。&lt;/p&gt;
 
@@ -37,15 +37,13 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllcn.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].&lt;/p&gt;
-
 </description>
         <pubDate>Sun, 14 Sep 2014 00:16:22 +0800</pubDate>
-        <link>http://tishoy.github.io/jekyll/update/2014/09/14/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://tishoy.github.io/jekyll/update/2014/09/14/welcome-to-jekyll.html</guid>
+        <link>http://tishoy.github.ioblog//blog/update/2014/09/14/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://tishoy.github.ioblog//blog/update/2014/09/14/welcome-to-jekyll.html</guid>
         
         
-        <category>jekyll</category>
+        <category>blog</category>
         
         <category>update</category>
         
