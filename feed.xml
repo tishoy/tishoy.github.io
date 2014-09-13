@@ -4,10 +4,10 @@
     <title>TishoY&#39;s Area</title>
     <description>TishoY&#39;s blog.
 </description>
-    <link>http://tishoy.github.ioblog//</link>
-    <atom:link href="http://tishoy.github.ioblog//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 13 Sep 2014 18:46:24 +0800</pubDate>
-    <lastBuildDate>Sat, 13 Sep 2014 18:46:24 +0800</lastBuildDate>
+    <link>http://tishoy.github.io/</link>
+    <atom:link href="http://tishoy.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 13 Sep 2014 18:56:04 +0800</pubDate>
+    <lastBuildDate>Sat, 13 Sep 2014 18:56:04 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -39,8 +39,8 @@
 
 </description>
         <pubDate>Sun, 14 Sep 2014 00:16:22 +0800</pubDate>
-        <link>http://tishoy.github.ioblog//blog/update/2014/09/14/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://tishoy.github.ioblog//blog/update/2014/09/14/welcome-to-jekyll.html</guid>
+        <link>http://tishoy.github.io/blog/update/2014/09/14/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://tishoy.github.io/blog/update/2014/09/14/welcome-to-jekyll.html</guid>
         
         
         <category>blog</category>
