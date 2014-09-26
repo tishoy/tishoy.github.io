@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TishoY&#39;s Area</title>
+    <description>TishoY&#39;s blog.
+</description>
+    <link>http://tishoy.github.io/</link>
+    <atom:link href="http://tishoy.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 18 Sep 2014 22:12:07 +0800</pubDate>
+    <lastBuildDate>Thu, 18 Sep 2014 22:12:07 +0800</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>告别不了的Flash</title>
+        <description>&lt;p&gt;之前可以说就不喜欢Flash了，不知道为什么。一直以来，工作繁忙，也没时间玩什么游戏，只是玩玩三国杀，因为那是我认为最为成功的Flash网页游戏了。不过却发现每次玩的时候，MacBook的风扇转的哎呦！是真凶啊。
+先上图片：
+&lt;img src=&quot;http://tishoy.github.io/pic/memory.png&quot; alt=&quot;memory&quot; /&gt;
+&lt;img src=&quot;http://tishoy.github.io/pic/cpu.png&quot; alt=&quot;cpu&quot; /&gt;
+&lt;img src=&quot;http://tishoy.github.io/pic/energy.png&quot; alt=&quot;energy&quot; /&gt;
+百度了一圈，又谷歌了一圈。发现大部分人都遇到过类似的问题。我的解决方案是：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;不再使用FlashPlayer，也就是不再玩三国杀了，看优酷之类的用我心爱的iPad&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;至于必须要用Macbook搞以上活动的可以尝试下边的方法：（网上找到，并未实践）&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;更新flashplayer版本&lt;/li&gt;
+  &lt;li&gt;更换flashplayer要64位的&lt;/li&gt;
+  &lt;li&gt;更换浏览器，据说chrome或许会好一些&lt;/li&gt;
+  &lt;li&gt;带上耳机，防止风扇烦你&lt;/li&gt;
+  &lt;li&gt;最好的方法，向我学习，放弃之。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;乔布斯不喜欢Flash，所以在苹果电脑上Flash Player支持并不怎么样，不过我们可以用PC来玩三国杀，来看视频，都可以啊。而HTML5是苹果更喜欢的。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Sep 2014 01:41:00 +0800</pubDate>
+        <link>http://tishoy.github.io/blog/update/2014/09/15/about%20macbook%20fan.html</link>
+        <guid isPermaLink="true">http://tishoy.github.io/blog/update/2014/09/15/about%20macbook%20fan.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to my new blog!</title>
+        <description>&lt;p&gt;这是第一篇来到这边的博文，以前的地址是&lt;a href=&quot;http://blog.sina.com.cn/tishoy&quot;&gt;新浪的博客&lt;/a&gt;。本来想第一篇就琐碎的写点什么就可以了，后来想到：搬家到这边也不太容易。前前后后花了三个晚上。所以打算把这途中遇到的问题之类的分享给大家。&lt;/p&gt;
+
+&lt;h1 id=&quot;section&quot;&gt;创建经历&lt;/h1&gt;
+&lt;p&gt;起因：由于之前就不太喜欢新浪那边的博客，总是想着自己弄个域名，可又觉得繁琐。突然在网上看到了说使用jekyll创建博客，是写博客的&lt;a href=&quot;http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html&quot;&gt;第三阶段&lt;/a&gt;，还有什么像黑客一样写博客之类的，很感兴趣。进去大致了解了一下就决定搬家了。&lt;/p&gt;
+
+&lt;p&gt;过程：首先baidu了一圈jekyll，然后上&lt;a href=&quot;http://jekyllcn.com&quot;&gt;官网&lt;/a&gt;又看了一圈。看到上边不建议用windows，于是就决定用我的macbook来弄。等到下班回家便开始弄，结果刚要开始就遇到了问题。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;打开终端，输入gem install jekyll。结果是You don’t have permission to access /ruby
+  系统自带ruby没有写权限。折腾了一晚上又google，又stackoverflow的。基本上是要放弃使用系统自带ruby。安装个ruby版本管理工具。最开始想用rbenv，不过在安装时候downloading总是太慢，后来就放弃而选用了RVM。&lt;/li&gt;
+  &lt;li&gt;RVM安装时候ruby，总是不能下载完成。
+  不过我发现，再次输入时候就少了一个需要安装的库。所以我就一直按了许多次，最终安装成功了，不知道还会不会遇到这个问题。&lt;/li&gt;
+  &lt;li&gt;github page 申请
+  这边要注意名字一定跟注册的名字一样哦，不过在github的setting 里可以修改哦。&lt;/li&gt;
+  &lt;li&gt;markdown语法
+  还真是不太了解这markdown，跟我一样小白的同学可以百度找个&lt;a href=&quot;http://mahua.jser.me&quot;&gt;在线编辑&lt;/a&gt;的，上边基本上把所有的语法功能都表现了一下。&lt;/li&gt;
+  &lt;li&gt;至于主题，还是慢慢来等以后再研究研究再换。这边就先试发下这个看看效果吧。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;section-1&quot;&gt;一些功能展示&lt;/h1&gt;
+
+&lt;p&gt;对于代码加亮，如下：&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Sun, 14 Sep 2014 00:16:22 +0800</pubDate>
+        <link>http://tishoy.github.io/blog/update/2014/09/14/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://tishoy.github.io/blog/update/2014/09/14/welcome-to-jekyll.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
