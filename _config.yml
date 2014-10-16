@@ -1,0 +1,12 @@
+# Site settings
+title: TishoY's Area
+email: 404064154@qq.com
+description: > # this means to ignore newlines until "baseurl:"
+  TishoY's blog.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://tishoy.github.io" # the base hostname & protocol for your site
+github_username:  tishoy
+
+# Build settings
+markdown: kramdown
+destination: ./_site
