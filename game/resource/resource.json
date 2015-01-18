@@ -37,12 +37,12 @@
         {
             "name": "description",
             "type": "json",
-            "url": "config/description.json"
+            "url": "Config/description.json"
         },
         {
             "name": "copy",
             "type": "json",
-            "url": "config/copy.json"
+            "url": "Config/copy.json"
         }
     ]
 }
