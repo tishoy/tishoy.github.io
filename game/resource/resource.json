@@ -20,7 +20,7 @@
             "name": "Button_json",
             "subkeys": "red1,red2,black1,black2,green1,green2",
             "type": "sheet",
-            "url": "assets/Button.json"
+            "url": "assets/button.json"
         },
         {
             "name": "MapView_json",
