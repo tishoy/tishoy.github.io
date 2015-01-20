@@ -1,0 +1,7 @@
+{"file":"button.png","frames":{
+"red2":{"x":1,"y":1,"w":97,"h":42,"offX":4,"offY":4,"sourceW":105,"sourceH":50},
+"black1":{"x":100,"y":1,"w":105,"h":50,"offX":0,"offY":0,"sourceW":105,"sourceH":50},
+"black2":{"x":1,"y":45,"w":97,"h":42,"offX":4,"offY":4,"sourceW":105,"sourceH":50},
+"green1":{"x":100,"y":53,"w":105,"h":50,"offX":0,"offY":0,"sourceW":105,"sourceH":50},
+"green2":{"x":1,"y":89,"w":97,"h":42,"offX":4,"offY":4,"sourceW":105,"sourceH":50},
+"red1":{"x":100,"y":105,"w":105,"h":50,"offX":0,"offY":0,"sourceW":105,"sourceH":50}}}

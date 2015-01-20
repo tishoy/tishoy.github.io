@@ -1,0 +1,10 @@
+{
+	"skins":
+	{
+		"egret.gui.EndWinSkin":"skins.TipWinSkin",
+		"egret.gui.GameWinSkin":"skins.GameWinSkin",
+		"egret.gui.GreenButtonSkin":"skins.GreenButtonSkin",
+		"egret.gui.GridViewSkin":"skins.GridViewSkin",
+        "egret.gui.StartWinSkin": "skins.StartWinSkin"
+	}
+}
