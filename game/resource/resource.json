@@ -3,11 +3,12 @@
 	[
 		{"name":"load","type":"sheet","url":"assets/load.json"},
 		{"name":"socialIcon","type":"sheet","url":"assets/socialIcon.json"},
-        { "name": "assets", "type": "sheet", "url": "assets/assets.json" },
-        { "name": "mapView", "type": "sheet", "url": "assets/mapView.json" },
-        { "name": "copy", "type": "json", "url": "config/copy.json" },
-        { "name": "description", "type": "json", "url": "config/description.json" },
-        { "name": "font_json", "type": "sheet",  "subkeys": "1,2,3,4,5,6,7,8,9,0,+,-", "url": "assets/font.json" }
+        {"name":"assets", "type": "sheet", "url": "assets/assets.json"},
+        {"name":"mapView", "type": "sheet", "url": "assets/mapView.json"},
+        {"name":"medal", "type": "sheet", "url" : "assets/medal.json"},
+        {"name":"copy", "type": "json", "url": "config/copy.json"},
+        {"name":"description", "type": "json", "url": "config/description.json"},
+        {"name":"font_json", "type": "sheet",  "subkeys": "1,2,3,4,5,6,7,8,9,0,+,-", "url": "assets/font.json" }
 	],
 
 "groups":
