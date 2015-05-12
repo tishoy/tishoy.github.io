@@ -1,23 +1,159 @@
----
-layout: default
----
-<link rel="shortcut icon" href="favicon.ico">
-<div class="home">
-
-  <h1 class="page-heading">文章列表</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>prechu a Bootstarp  Website Template | Home :: w3layouts</title>
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
+<script src="js/jquery.min.js"></script>
+</head>
+<body>
+<!-- header -->
+	<div class="banner">
+		<div class="header">
+			<div class="container">
+				<div class="logo">
+					<a href="index.html"><img src="images/logo.png" class="img-responsive" alt="" /></a>
+				</div>
+				<div class="head-nav">
+						<span class="menu"> </span>
+							<ul>
+								<li class="active"><a href="index.html">Home</a></li>
+								<li><a href="products.html">Products</a></li>
+								<li><a href="services.html">services</a></li>
+								<li><a href="contact.html">contact</a></li>
+								<div class="clearfix"> </div>
+						</ul>
+				</div>
+					<div class="clearfix"> </div>
+					<!-- script-for-nav -->
+					<script>
+						$( "span.menu" ).click(function() {
+						  $( ".head-nav ul" ).slideToggle(300, function() {
+							// Animation complete.
+						  });
+						});
+					</script>
+				<!-- script-for-nav -->
+			</div> 
+		</div>
+		<div class="container">
+			<div class="wmuSlider example1 section" id="section-1">
+			   <article style="position: absolute; width: 100%; opacity: 0;"> 
+			   	   	<div class="banner-info">
+						<div class="col-md-6 info1">
+							<img src="images/phone.png" class="img-responsive" alt="" />
+						</div>
+						<div class="col-md-6 info">
+							<h1>Lorem Ipsum is simply </h1>
+							<p>dummy text of the </p>
+							<p>printing & typesetting </p>
+							<a class="sign" href="#">Sign up now</a>
+							<a href="#"><i class="tick"></i></a>
+						</div>
+							<div class="clearfix"> </div>
+					</div>
+				</article>
+				 <article style="position: absolute; width: 100%; opacity: 0;"> 
+			   	   	<div class="banner-info">
+						<div class="col-md-6 info1">
+							<img src="images/phone.png" class="img-responsive" alt="" />
+						</div>
+						<div class="col-md-6 info">
+							<h1>Lorem Ipsum is simply </h1>
+							<p>dummy text of the </p>
+							<p>printing & typesetting </p>
+							<a class="sign" href="#">Sign up now</a>
+							<a href="#"><i class="tick"></i></a>
+						</div>
+							<div class="clearfix"> </div>
+					</div>
+				</article>
+				 <article style="position: absolute; width: 100%; opacity: 0;"> 
+			   	   	<div class="banner-info">
+						<div class="col-md-6 info1">
+							<img src="images/phone.png" class="img-responsive" alt="" />
+						</div>
+						<div class="col-md-6 info">
+							<h1>Lorem Ipsum is simply </h1>
+							<p>dummy text of the </p>
+							<p>printing & typesetting </p>
+							<a class="sign" href="#">Sign up now</a>
+							<a href="#"><i class="tick"></i></a>
+						</div>
+							<div class="clearfix"> </div>
+					</div>
+				</article>
+				<ul class="wmuSliderPagination">
+                	<li><a href="#" class="">0</a></li>
+                	<li><a href="#" class="">1</a></li>
+                	<li><a href="#" class="">2</a></li>
+                </ul>
+		  </div>		
+		</div>
+		<!-- script -->
+          <script src="js/jquery.wmuSlider.js"></script> 
+			<script>
+       			$('.example1').wmuSlider();         
+   		    </script>
+			<!-- script -->		
+	</div>
+<!-- header -->
+<!-- content -->
+	<div class="contrary">
+		<div class="container">
+			<div class="col-md-4 penc">
+				<i class="pencil"></i>
+				<h3>Contrary to popular</h3>
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh</p>
+			</div>
+			<div class="col-md-4 devc">
+				<i class="device"></i>
+				<h3>Contrary to popular</h3>
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh</p>
+			</div>
+			<div class="col-md-4 cak">
+				<i class="cake"></i>
+				<h3>Contrary to popular</h3>
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh</p>
+			</div>
+		</div>
+	</div>
+<!-- content -->
+<!-- shopping -->
+	<div class="shopping">
+		<div class="container">
+			<div class="col-md-6 cart">
+			<h2>The Shopping Cart</h2>
+				<img src="images/basket.png" class="img-responsive" alt="" />
+			</div>
+			<div class="col-md-4 bullet">
+				<h4>Some Bullet text here</h4>
+				<p>Lorem Ipsum is simply dummy text of the printing and typesetting 
+					Lorem Ipsum has been the industry's standard dummy text ever 
+					When an unknown printer took a galley of type and scrambled 
+					It to make a type specimen book. It has survived not only five centuries
+					But also the leap into electronic typesetting,
+					Remaining essentially unchanged. It was popularised 
+					The release of Letraset sheets containing Lorem Ipsum passages</p>
+			</div>
+		</div>
+	</div>
+<!-- shopping -->
+	<div class="footer">
+		<div class="container">
+			<p>Template by <a href="http://w3layouts.com" target="_blank"> w3layouts</a></p>
+		</div>	
+	</div>
+</body>
+</html>
