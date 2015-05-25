@@ -39,15 +39,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     //        }else{
                     //        d_url += '?_='+new Date().getTime()+"&binding="+back.binding;
                     //        }
-                    //    var u = navigator.userAgent, app = navigator.appVersion;
-                    //    var isAndroid = u.indexOf('Android') > -1 || u.indexOf('Linux') > -1; //android终端或者uc浏览器
-                    //    var isiOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/);
-                    //    if (isAndroid) {
-                    link.href =  "http://dezicoimg.90uncle.com/app/dezico.1.2.apk";
-                    //    }
-                    //    if (isiOS) {
-                    //        link.href = "https://itunes.apple.com/cn/app/zhu-di-ke-shi-zi/id940472523?mt=8";
-                    //    }
+                    var u = navigator.userAgent, app = navigator.appVersion;
+                    var isAndroid = u.indexOf('Android') > -1 || u.indexOf('Linux') > -1; //android终端或者uc浏览器
+                    var isiOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/);
+                    if (isAndroid) {
+                        link.href =  "http://dezicoimg.90uncle.com/app/dezico.1.2.apk";
+                    }
+                    if (isiOS) {
+                        link.href = "https://itunes.apple.com/cn/app/zhu-di-ke-shi-zi/id940472523?mt=8";
+                    }
                     document.body.appendChild(link);
                     link.click();
                     //}
