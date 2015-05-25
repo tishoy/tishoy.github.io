@@ -23,49 +23,58 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         <div class="container">
             <div class="logo">
                 <a href="index.html"><img src="images/dezico_download.jpg" class="img-responsive" alt="" /></a>
-                <script type="text/javascript" charset="utf-8">
-                    if(!isWeiXin()){
-                        var d_url = "";
-                        //        if(is_safari=='true') {
-                        //        d_url = down_xb_url_by_safari+back.binding+".plist";
-                        //        //下载小兵
-                        //        window.location.href= d_url;
-                        //        }else{
-                        //        d_url = down_xb_url;
-                        var link = document.createElement('a');
-                        link.rel='noreferrer';
-                        //        if(d_url.indexOf("?")>-1){
-                        //        d_url += '&_='+new Date().getTime()+"&binding="+back.binding;
-                        //        }else{
-                        //        d_url += '?_='+new Date().getTime()+"&binding="+back.binding;
-                        //        }
-                        var u = navigator.userAgent, app = navigator.appVersion;
-                        var isAndroid = u.indexOf('Android') > -1 || u.indexOf('Linux') > -1;
-                        var isiOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/);
-                        if (isAndroid) {
-                            link.href =  "http://dezicoimg.90uncle.com/app/dezico.1.2.apk";
-                        }
-                        if (isiOS) {
-                            link.href = "https://itunes.apple.com/cn/app/zhu-di-ke-shi-zi/id940472523?mt=8";
-                        }
-                        document.body.appendChild(link);
-                        link.click();
-                    }
-
-                    function isWeiXin(){
-                        var ua = window.navigator.userAgent.toLowerCase();
-                        if(ua.match(/MicroMessenger/i) == 'micromessenger'){
-                            return true;
-                        }else{
-                            return false;
-                        }
-                    }
-                    //}
-
-                </script>
             </div>
         </div>
     </div>
 </div>
+<div class="banner">
+    <div class="header">
+        <div class="container">
+            <div class="logo">
+                <a href="index.html"><img src="images/dezico_download.jpg" class="img-responsive" alt="" /></a>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+    if(!isWeiXin()){
+        var d_url = "";
+        //        if(is_safari=='true') {
+        //        d_url = down_xb_url_by_safari+back.binding+".plist";
+        //        //下载小兵
+        //        window.location.href= d_url;
+        //        }else{
+        //        d_url = down_xb_url;
+        var link = document.createElement('a');
+        link.rel='noreferrer';
+        //        if(d_url.indexOf("?")>-1){
+        //        d_url += '&_='+new Date().getTime()+"&binding="+back.binding;
+        //        }else{
+        //        d_url += '?_='+new Date().getTime()+"&binding="+back.binding;
+        //        }
+        var u = navigator.userAgent, app = navigator.appVersion;
+        var isAndroid = u.indexOf('Android') > -1 || u.indexOf('Linux') > -1;
+        var isiOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/);
+        if (isAndroid) {
+            link.href =  "http://dezicoimg.90uncle.com/app/dezico.1.2.apk";
+        }
+        if (isiOS) {
+            link.href = "https://itunes.apple.com/cn/app/zhu-di-ke-shi-zi/id940472523?mt=8";
+        }
+        document.body.appendChild(link);
+        link.click();
+    }
+
+    function isWeiXin(){
+        var ua = window.navigator.userAgent.toLowerCase();
+        if(ua.match(/MicroMessenger/i) == 'micromessenger'){
+            return true;
+        }else{
+            return false;
+        }
+    }
+    //}
+
+</script>
 </body>
 </html>
