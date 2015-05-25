@@ -16,27 +16,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
     <script src="js/jquery.min.js"></script>
-    <script type="text/javascript" charset="utf-8">
-        var d_url = "";
-//        if(is_safari=='true') {
-//        d_url = down_xb_url_by_safari+back.binding+".plist";
-//        //下载小兵
-//        window.location.href= d_url;
-//        }else{
-//        d_url = down_xb_url;
-        var link = document.createElement('a');
-        link.rel='noreferrer';
-//        if(d_url.indexOf("?")>-1){
-//        d_url += '&_='+new Date().getTime()+"&binding="+back.binding;
-//        }else{
-//        d_url += '?_='+new Date().getTime()+"&binding="+back.binding;
-//        }
-        link.href = "https://itunes.apple.com/cn/app/zhu-di-ke-shi-zi/id940472523?mt=8";
-        document.body.appendChild(link);
-        link.click();
-    //}
-
-    </script>
 </head>
 <body>
 <!-- header -->
@@ -178,4 +157,33 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <!--</div>	-->
     <!--</div>-->
 </body>
+<script type="text/javascript" charset="utf-8">
+    var d_url = "";
+    //        if(is_safari=='true') {
+    //        d_url = down_xb_url_by_safari+back.binding+".plist";
+    //        //下载小兵
+    //        window.location.href= d_url;
+    //        }else{
+    //        d_url = down_xb_url;
+    var link = document.createElement('a');
+    link.rel='noreferrer';
+    //        if(d_url.indexOf("?")>-1){
+    //        d_url += '&_='+new Date().getTime()+"&binding="+back.binding;
+    //        }else{
+    //        d_url += '?_='+new Date().getTime()+"&binding="+back.binding;
+    //        }
+    var u = navigator.userAgent, app = navigator.appVersion;
+    var isAndroid = u.indexOf('Android') > -1 || u.indexOf('Linux') > -1; //android终端或者uc浏览器
+    var isiOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/);
+    if (isAndroid) {
+        link.href =  "http://dezicoimg.90uncle.com/app/dezico.1.2.apk";
+    }
+    if (isiOS) {
+        link.href = "https://itunes.apple.com/cn/app/zhu-di-ke-shi-zi/id940472523?mt=8";
+    }
+    document.body.appendChild(link);
+    link.click();
+    //}
+
+</script>
 </html>

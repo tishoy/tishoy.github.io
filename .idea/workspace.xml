@@ -2,100 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4f783f3-edeb-4bfe-b824-09204fdf93a8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/swipebox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/basket.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bc2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bcard.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/brand.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/diamond.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/food.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img-sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/menu.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pho.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/phone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pp.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sign.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/zoom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.mixitup.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.swipebox.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.wmuSlider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/services.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/base.manifest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/launcher/egret_loader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/launcher/egret_require.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/launcher/game-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/launcher/native_require.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/launcher/runtime_loader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/apha0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/assets.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/assets.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/font.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/font.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/load.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/load.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/mapView.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/mapView.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/medal.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/medal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/socialIcon.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/socialIcon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/ui.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/acceptBtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/alertBg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/bg2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/cancelBtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/continueBtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/fbBtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/fontImg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/helpBtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/loadingCircle1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/loadingCircle2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/logoImg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/menueBtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/musicBtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/nextBtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/panelBg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/pauseBtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/pgBar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/pgBg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/rankBtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/retryBtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/setBtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/shareBtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/shareIcon/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/shareIcon/douban.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/shareIcon/qq.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/shareIcon/qqweibo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/shareIcon/qqzone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/shareIcon/renren.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/shareIcon/sinaweibo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/shareIcon/weixin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/shopBtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/soundBtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/starImg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/startBtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/switchBar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/switchOff.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/switchOn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/tipsBg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/assets/默认素材/titleBg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/config/copy.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/config/description.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/resource.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/resource/ui.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/show/version.manifest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tishoy.github.io.iws" />
@@ -117,11 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".project" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".project" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.project">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.51222354">
+            <state vertical-scroll-proportion="0.0">
               <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.25603864">
+              <caret line="166" column="34" selection-start-line="166" selection-start-column="34" selection-end-line="166" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -130,7 +48,7 @@
       <file leaf-file-name=".jshintrc" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.jshintrc">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -185,6 +103,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -203,9 +122,50 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tishoy.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tishoy.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tishoy.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tishoy.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tishoy.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tishoy.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -272,14 +232,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="977" extended-state="7" />
+    <frame x="0" y="23" width="1920" height="977" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -298,10 +258,34 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/index.html</url>
+          <line>174</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.jshintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.jshintrc">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -312,8 +296,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.project">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51222354">
+        <state vertical-scroll-proportion="0.0">
           <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25603864">
+          <caret line="166" column="34" selection-start-line="166" selection-start-column="34" selection-end-line="166" selection-end-column="34" />
           <folding />
         </state>
       </provider>
