@@ -70,7 +70,7 @@
                     this.game.touchControl.inputDisable();
                 }
             }, this);
-            _button2.frame = 0;
+            _button2.frame=0;
 
             this.add.button(400, 740, 'githubstar', function () {
                 window.open('https://github.com/eugenioclrc/phaser-touch-control-plugin','_blank');

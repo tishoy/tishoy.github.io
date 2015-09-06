@@ -42,8 +42,8 @@ var BasicGame = {
                 this.scale.minWidth = 256;
                 this.scale.minHeight = 384;
                 
-                this.scale.maxWidth = 960;
-                this.scale.maxHeight = 640;
+                this.scale.maxWidth = 640;
+                this.scale.maxHeight = 960;
                 this.scale.pageAlignHorizontally = true;
                 this.scale.pageAlignVertically = true;
                 this.scale.setScreenSize(true);
@@ -51,8 +51,8 @@ var BasicGame = {
                 this.scale.scaleMode = Phaser.ScaleManager.SHOW_ALL;
                 this.scale.minWidth = 256;
                 this.scale.minHeight = 384;
-                this.scale.maxWidth = 960;
-                this.scale.maxHeight = 640;
+                this.scale.maxWidth = 640;
+                this.scale.maxHeight = 960;
                 this.scale.pageAlignHorizontally = true;
                 this.scale.pageAlignVertically = true;
                 this.scale.forceOrientation(false,true);
