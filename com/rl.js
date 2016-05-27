@@ -355,7 +355,7 @@ function initMap() {
 // checkSurrounding
 // If the focused tile has only walls around it, it is a dead tile and can be made black
 //******************************************************************************************************
-function checkSurrounding(map,y, x){
+function checkSurrounding(map, y, x){
 	y = parseInt(y);
 	x = parseInt(x);
 	var checkYs = [y];
