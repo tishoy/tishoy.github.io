@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <style>
+        html{
+            font-size: 14px;
+        }
+        body{
+            background: #ae4997;
+        }
+        .bgimg{
+            position: fixed;
+            z-index: -2;
+        }
+        .footimg{
+            position: fixed;
+            bottom:0;
+        }
+        .bgimg, .qrcode, .footimg{
+            width: 100%;
+        }
+        .bgimg img{
+            display: block;
+            width: 100%;
+        }
+        .qrcode{
+            padding: 2rem 0 0 0;
+        }
+        .qrcode img{
+            display: block;
+            margin: 0 auto 0.5rem;
+        }
+        .footimg img{
+            display: block;
+            margin: 1rem auto;
+            z-index: -1;
+        }
+    </style>
+    <title>契机APP下载</title>
+</head>
+<body>
+    <div class="bgimg">
+        <img src="img/bg@2x.png" alt="bgimg" srcset="img/bg@2x.png 2x, img/bg@3x.png 3x">
+    </div>
+    <div class="qrcode">
+        <img src="img/qr@2x.png" alt="logoimg" srcset="img/qr@2x.png 2x, img/qr@3x.png 3x">
+    </div>
+    <div class="footimg">
+        <a href="https://www.baidu.com/"><img src="img/btn1@2x.png" alt="logoimg" srcset="img/btn1@2x.png 2x, img/btn1@3x.png 3x"></a>
+        <a href="https://www.baidu.com/"><img src="img/btn2@2x.png" alt="logoimg" srcset="img/btn2@2x.png 2x, img/btn2@3x.png 3x"></a>
+        <img src="img/com@2x.png" alt="logoimg" srcset="img/com@2x.png 2x, img/com@3x.png 3x">
+    </div>
+</body>
+</html>
