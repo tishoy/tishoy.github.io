@@ -93,7 +93,7 @@
                     cc.view.enableRetina(true);
                 }
                 if (cc.sys.isBrowser) {
-                    // setLoadingDisplay();
+                    setLoadingDisplay();
                 }
 
                 if (cc.sys.isMobile) {
