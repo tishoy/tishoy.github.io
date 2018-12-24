@@ -58,15 +58,19 @@ class JPlatform {
         if (this.name === "oppo") {
             OPPO.loadingComplete()
         } else if (this.name === "mi") {
-            XMGame.game_start((result) => {
+            // 游戏开始
+            XMGame.game_start(foo)  // 游戏loading蒙层会取消
+
+            function foo(result) {
                 if (result.code === "3") {
+                    // 需要调用提前游戏结束的逻辑，这是例子
                     XMGame.game_over({
                         cost_time: 10000,
                         score: 0
                     })
                 }
+            }
 
-            });
         }
     }
 
@@ -341,7 +345,7 @@ class JPlatform {
         }
     }
 
-    async fetchBanner() {
+    fetchBanner() {
         if (this.name === "qqplay") {
             return new Promise((resolve, reject) => {
                 BK.Advertisement.fetchBannerAd(function (retCode, msg, adBannerHandle) {
@@ -376,13 +380,16 @@ class JPlatform {
                     ad_node.style.display = "none";//block
                     resolve(null);
                 })
+                bannerAd.addEventListener("onclick", () => {
+
+                })
             })
         } else if (this.name === "wxgame") {
             return null;
         }
     }
 
-    async showBanner(banner) {
+    showBanner(banner) {
         if (this.name === "qqplay") {
             if (banner === null) {
                 return;
@@ -401,7 +408,7 @@ class JPlatform {
         }
     }
 
-    async hideBanner(banner) {
+    hideBanner(banner) {
         if (this.name === "qqplay") {
             banner.close();
         } else if (this.name === "oppo") {
@@ -410,7 +417,7 @@ class JPlatform {
         }
     }
 
-    async fetchVedio() {
+    fetchVedio() {
         if (this.name === "qqplay") {
             return new Promise((resolve, reject) => {
                 var videoType = 0; //激励视频广告场景 0.游戏页面挂件广告 1.游戏结算页广告 2.游戏任务广告  3.游戏复活广告 
@@ -448,11 +455,11 @@ class JPlatform {
         }
     }
 
-    async reloadVedio(vedio) {
+    reloadVedio(vedio) {
         vedio.load();
     }
 
-    async vedioPlay(vedio, onPlay, onEnd) {
+    vedioPlay(vedio, onPlay, onEnd) {
         if (this.name === "qqplay") {
             // return new Promise((resolve, reject) => {\
             var result = {
@@ -520,16 +527,22 @@ class JPlatform {
         } else if (this.name === "mi") {
             var content = {
                 adType: '1',
-                adId: ''
+                adId: '21c9f49ceec061102301'
             }
             XMGame.game_show_ad(content, function (adData) {
-                console.log(adData.result);
+                console.log("joypac" + adData.result);
                 console.log(adData.hasGetAd);
+                if (this.adData.hasGetAd) {
+                    onPlay();
+                }
+                // if (adData.) {
+
+                // }
             })
         }
     }
 
-    async fetchInterstitial() {
+    fetchInterstitial() {
         if (this.name === "oppo") {
             return new Promise((resolve, reject) => {
                 var interstitialAd = opUnion.createInterstitialAd({
@@ -554,7 +567,7 @@ class JPlatform {
         }
     }
 
-    async showInterstitial(interstitialAd) {
+    showInterstitial(interstitialAd) {
         if (this.name === "oppo") {
             interstitialAd.onClose(function () {
                 SoundManager.getInstance().playBGM();
@@ -663,7 +676,7 @@ class JPlatform {
     }
 
     hasVedioSDK() {
-        return false;
+        return true;
     }
 
     hasShareSDK() {
