@@ -529,9 +529,10 @@ class JPlatform {
                 adType: '1',
                 adId: '21c9f49ceec061102301'
             }
+            console.log("joypac播放视频");
             XMGame.game_show_ad(content, function (adData) {
                 console.log("joypac" + adData.result);
-                console.log(adData.hasGetAd);
+                console.log("joypac" + adData.hasGetAd);
                 if (this.adData.hasGetAd) {
                     onPlay();
                 }
