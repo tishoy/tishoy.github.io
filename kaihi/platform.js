@@ -58,7 +58,7 @@ class JPlatform {
         if (this.name === "oppo") {
             OPPO.loadingComplete()
         } else if (this.name === "mi") {
-            XMGame.game_start(() => {
+            XMGame.game_start((result) => {
                 if (result.code === "3") {
                     XMGame.game_over({
                         cost_time: 10000,
