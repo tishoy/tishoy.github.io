@@ -452,6 +452,8 @@ class JPlatform {
             })
         } else if (this.name === "mi") {
             AdManager.getInstance().vedioLoaded = true;
+            var vedio = "miVedio";
+            resolve(vedio);
         }
     }
 
@@ -524,7 +526,8 @@ class JPlatform {
                 }
             });
             vedio.show().then(function () { onPlay() }, () => { }).catch(function (err) { vedio.load().then(function () { vedio.show() }) }, () => { });
-        } else if (this.name === "mi") {
+        } 
+        if (this.name === "mi") {
             var content = {
                 adType: '1',
                 adId: '21c9f49ceec061102301'
