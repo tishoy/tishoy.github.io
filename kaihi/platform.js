@@ -537,21 +537,21 @@ class JPlatform {
                 onPlay();
                 if (adData.hasGetAd) {
                     if (adData.result) {
-                        onEnd(var result = {
+                        onEnd({
                             start: true,
                             finish: true
                         });
                     } else {
-                        onEnd(var result = {
+                        onEnd({
                             start: true,
                             finish: false
                         });
                     }
                 } else {
-                     onEnd(var result = {
-                            start: false,
-                            finish: false
-                        });
+                    onEnd({
+                        start: false,
+                        finish: false
+                    });
                 }
             })
         }
