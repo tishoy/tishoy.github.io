@@ -532,9 +532,14 @@ class JPlatform {
             }
             console.log("joypac播放视频");
             XMGame.game_show_ad(content, function (adData) {
+                console.log("joypac" + adData.result);
+                console.log("joypac" + adData.hasGetAd);
                 onPlay();
+                if (adData.result) {
+                    onEnd(true);
+                }
                 if (adData.hasGetAd) {
-                    onEnd(adData.result);
+                   
                 } 
             })
         }
