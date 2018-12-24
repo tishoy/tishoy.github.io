@@ -1,0 +1,11 @@
+{"file":"data_scene.png","frames":{
+"back_btn":{"x":883,"y":823,"w":86,"h":89,"offX":7,"offY":4,"sourceW":100,"sourceH":100},
+"title":{"x":1,"y":1423,"w":356,"h":57,"offX":3,"offY":7,"sourceW":363,"sourceH":69},
+"bg":{"x":1,"y":1,"w":880,"h":1420,"offX":0,"offY":0,"sourceW":880,"sourceH":1420},
+"card_bf3":{"x":883,"y":412,"w":134,"h":135,"offX":5,"offY":5,"sourceW":144,"sourceH":143},
+"card_bg1":{"x":883,"y":275,"w":134,"h":135,"offX":5,"offY":5,"sourceW":144,"sourceH":143},
+"card_bg2":{"x":883,"y":138,"w":134,"h":135,"offX":5,"offY":5,"sourceW":144,"sourceH":143},
+"card_bg3":{"x":883,"y":1,"w":134,"h":135,"offX":5,"offY":5,"sourceW":144,"sourceH":143},
+"card_bf1":{"x":883,"y":686,"w":134,"h":135,"offX":5,"offY":5,"sourceW":144,"sourceH":143},
+"card_bf2":{"x":883,"y":549,"w":134,"h":135,"offX":5,"offY":5,"sourceW":144,"sourceH":143},
+"star":{"x":971,"y":823,"w":20,"h":19,"offX":1,"offY":1,"sourceW":22,"sourceH":23}}}

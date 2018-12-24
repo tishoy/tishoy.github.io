@@ -1,0 +1,68 @@
+{
+	"groups": [
+		{
+			"keys": "item_mask,stage2_role_action_png,stage2_fight_lose_png",
+			"name": "stage2_png"
+		},
+		{
+			"keys": "stage2_texture,stage2_role_action_json,stage2_fight_lose_json",
+			"name": "stage2_json"
+		},
+		{
+			"keys": "78_KickSound_mp3,80_GongStartSound_mp3,81_GongEndSound_1_mp3,41_KanseiSound_1_mp3",
+			"name": "stage2_mp3"
+		}
+	],
+	"resources": [
+		{
+			"url": "stage2/item_mask.png",
+			"type": "image",
+			"name": "item_mask"
+		},
+		{
+			"url": "stage2/fight_lose.png",
+			"type": "image",
+			"name": "stage2_fight_lose_png"
+		},
+		{
+			"url": "stage2/fight_lose.json",
+			"type": "json",
+			"name": "stage2_fight_lose_json"
+		},
+		{
+			"url": "stage2/role_action.png",
+			"type": "image",
+			"name": "stage2_role_action_png"
+		},
+		{
+			"url": "stage2/role_action.json",
+			"type": "json",
+			"name": "stage2_role_action_json"
+		},
+		{
+			"url": "stage2/texture.json",
+			"type": "sheet",
+			"name": "stage2_texture"
+		},
+		{
+			"url": "stage2/78_KickSound.mp3",
+			"type": "sound",
+			"name": "78_KickSound_mp3"
+		},
+		{
+			"url": "stage2/80_GongStartSound.mp3",
+			"type": "sound",
+			"name": "80_GongStartSound_mp3"
+		},
+		{
+			"url": "stage2/81_GongEndSound_1.mp3",
+			"type": "sound",
+			"name": "81_GongEndSound_1_mp3"
+		},
+		{
+			"url": "stage2/41_KanseiSound_1.mp3",
+			"type": "sound",
+			"name": "41_KanseiSound_1_mp3"
+		}
+	]
+}

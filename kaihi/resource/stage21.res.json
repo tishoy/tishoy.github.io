@@ -1,0 +1,104 @@
+{
+	"groups": [
+		{
+			"keys": "stage21_action_png,item_seed,item_box,item_full_box,item_ice_box",
+			"name": "stage21_png"
+		},
+		{
+			"keys": "stage21_texture,stage21_action_json",
+			"name": "stage21_json"
+		},
+		{
+			"keys": "16_HatodokeiSound_mp3,33_ReizoukoOpenSound_mp3,34_ReizoukoCloseSound_mp3,83_FusumaOpenSound_mp3,84_FusumaCloseSound_mp3,49_KachiSound_mp3,78_KickSound_mp3,38_UpSound_mp3,42_BiriSound_mp3,93_Shine3Sound_mp3",
+			"name": "stage21_mp3"
+		}
+	],
+	"resources": [
+		{
+			"url": "stage21/item_seed.png",
+			"type": "image",
+			"name": "item_seed"
+		},
+		{
+			"url": "stage21/item_box.png",
+			"type": "image",
+			"name": "item_box"
+		},
+		{
+			"url": "stage21/item_full_box.png",
+			"type": "image",
+			"name": "item_full_box"
+		},
+		{
+			"url": "stage21/item_ice_box.png",
+			"type": "image",
+			"name": "item_ice_box"
+		},
+		{
+			"url": "stage21/action.png",
+			"type": "image",
+			"name": "stage21_action_png"
+		},
+		{
+			"url": "stage21/action.json",
+			"type": "json",
+			"name": "stage21_action_json"
+		},
+		{
+			"url": "stage21/texture.json",
+			"type": "sheet",
+			"name": "stage21_texture"
+		},
+		{
+			"url": "stage21/16_HatodokeiSound.mp3",
+			"type": "sound",
+			"name": "16_HatodokeiSound_mp3"
+		},
+		{
+			"url": "stage21/33_ReizoukoOpenSound.mp3",
+			"type": "sound",
+			"name": "33_ReizoukoOpenSound_mp3"
+		},
+		{
+			"url": "stage21/34_ReizoukoCloseSound.mp3",
+			"type": "sound",
+			"name": "34_ReizoukoCloseSound_mp3"
+		},
+		{
+			"url": "stage21/83_FusumaOpenSound.mp3",
+			"type": "sound",
+			"name": "83_FusumaOpenSound_mp3"
+		},
+		{
+			"url": "stage21/84_FusumaCloseSound.mp3",
+			"type": "sound",
+			"name": "84_FusumaCloseSound_mp3"
+		},
+		{
+			"url": "stage21/49_KachiSound.mp3",
+			"type": "sound",
+			"name": "49_KachiSound_mp3"
+		},
+		{
+			"url": "stage21/78_KickSound.mp3",
+			"type": "sound",
+			"name": "78_KickSound_mp3"
+		},
+		{
+			"url": "stage21/38_UpSound.mp3",
+			"type": "sound",
+			"name": "38_UpSound_mp3"
+		},
+		{
+			"url": "stage21/42_BiriSound.mp3",
+			"type": "sound",
+			"name": "42_BiriSound_mp3"
+		},
+		{
+			"url": "stage21/93_Shine3Sound.mp3",
+			"type": "sound",
+			"name": "93_Shine3Sound_mp3"
+		}
+		
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"groups": [
+		{
+			"keys": "stage6_horse_action_png,stage6_toy_action_png,item_flower,item_berry,item_flower_ring",
+			"name": "stage6_png"
+		},
+		{
+			"keys": "stage6_texture,stage6_horse_action_json,stage6_toy_action_json",
+			"name": "stage6_json"
+		},
+		{
+			"keys": "14_Water8Sound_mp3,113_Bush2Sound_mp3,114_BushSound_mp3",
+			"name": "stage6_mp3"
+		}
+	],
+	"resources": [
+		{
+			"url": "stage6/item_flower.png",
+			"type": "image",
+			"name": "item_flower"
+		},
+
+		{
+			"url": "stage6/item_berry.png",
+			"type": "image",
+			"name": "item_berry"
+		},
+		{
+			"url": "stage6/item_flower_ring.png",
+			"type": "image",
+			"name": "item_flower_ring"
+		},
+		{
+			"url": "stage6/horse_action.png",
+			"type": "image",
+			"name": "stage6_horse_action_png"
+		},
+		{
+			"url": "stage6/horse_action.json",
+			"type": "json",
+			"name": "stage6_horse_action_json"
+		},
+		{
+			"url": "stage6/toy_action.png",
+			"type": "image",
+			"name": "stage6_toy_action_png"
+		},
+		{
+			"url": "stage6/toy_action.json",
+			"type": "json",
+			"name": "stage6_toy_action_json"
+		},
+		{
+			"url": "stage6/texture.json",
+			"type": "sheet",
+			"name": "stage6_texture"
+		},
+		{
+			"url": "stage6/14_Water8Sound.mp3",
+			"type": "sound",
+			"name": "14_Water8Sound_mp3"
+		},
+		{
+			"url": "stage6/113_Bush2Sound.mp3",
+			"type": "sound",
+			"name": "113_Bush2Sound_mp3"
+		},
+		{
+			"url": "stage6/114_BushSound.mp3",
+			"type": "sound",
+			"name": "114_BushSound_mp3"
+		}
+	]
+}

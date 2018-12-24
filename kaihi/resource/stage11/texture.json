@@ -1,0 +1,11 @@
+{"file":"texture.png","frames":{
+"nekoleaf":{"x":1836,"y":927,"w":158,"h":106,"offX":2,"offY":4,"sourceW":163,"sourceH":112},
+"ototo":{"x":1,"y":1851,"w":67,"h":192,"offX":2,"offY":2,"sourceW":72,"sourceH":196},
+"ototointree":{"x":1961,"y":1,"w":73,"h":169,"offX":7,"offY":4,"sourceW":85,"sourceH":177},
+"tree":{"x":883,"y":1,"w":565,"h":781,"offX":5,"offY":7,"sourceW":601,"sourceH":793},
+"bg":{"x":1,"y":1,"w":880,"h":1320,"offX":0,"offY":0,"sourceW":880,"sourceH":1320},
+"branch":{"x":1450,"y":611,"w":264,"h":224,"offX":4,"offY":5,"sourceW":271,"sourceH":234},
+"garden":{"x":1,"y":1323,"w":880,"h":526,"offX":0,"offY":3,"sourceW":880,"sourceH":529},
+"house":{"x":1450,"y":1,"w":509,"h":608,"offX":5,"offY":2,"sourceW":514,"sourceH":613},
+"ladder":{"x":1836,"y":611,"w":98,"h":314,"offX":6,"offY":6,"sourceW":109,"sourceH":326},
+"ladderbytree":{"x":1716,"y":611,"w":118,"h":321,"offX":3,"offY":3,"sourceW":129,"sourceH":325}}}

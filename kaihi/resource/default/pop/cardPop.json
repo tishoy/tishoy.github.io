@@ -1,0 +1,12 @@
+{"file":"cardPop.png","frames":{
+"ptbg":{"x":573,"y":517,"w":284,"h":384,"offX":5,"offY":5,"sourceW":292,"sourceH":395},
+"star":{"x":1,"y":1003,"w":20,"h":19,"offX":1,"offY":1,"sourceW":22,"sourceH":23},
+"success":{"x":287,"y":985,"w":65,"h":30,"offX":5,"offY":7,"sourceW":77,"sourceH":46},
+"successhead":{"x":1,"y":953,"w":284,"h":48,"offX":5,"offY":5,"sourceW":292,"sourceH":56},
+"diamondbg":{"x":287,"y":517,"w":284,"h":384,"offX":5,"offY":5,"sourceW":292,"sourceH":395},
+"fail":{"x":287,"y":953,"w":65,"h":30,"offX":5,"offY":7,"sourceW":77,"sourceH":46},
+"failhead":{"x":287,"y":903,"w":284,"h":48,"offX":5,"offY":5,"sourceW":292,"sourceH":56},
+"fun":{"x":354,"y":953,"w":65,"h":30,"offX":5,"offY":7,"sourceW":77,"sourceH":46},
+"funhead":{"x":1,"y":903,"w":284,"h":48,"offX":5,"offY":5,"sourceW":292,"sourceH":56},
+"goldbg":{"x":1,"y":517,"w":284,"h":384,"offX":5,"offY":5,"sourceW":292,"sourceH":395},
+"mask":{"x":1,"y":1,"w":880,"h":514,"offX":0,"offY":6,"sourceW":880,"sourceH":522}}}

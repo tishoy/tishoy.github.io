@@ -1,0 +1,98 @@
+{
+	"groups": [
+		{
+			"keys": "stage10_action_png,stage10_crash_png,item_iceshoes,item_bottle",
+			"name": "stage10_png"
+		},
+		{
+			"keys": "stage10_texture,stage10_action_json,stage10_crash_json",
+			"name": "stage10_json"
+		},
+		{
+			"keys": "120_DonSound_mp3,26_WaterSound_mp3,25_BokeSound_mp3,78_KickSound_mp3,53_SuberiSound_mp3,91_DoorOpenSound_mp3,82_GlassBreak2Sound_mp3,14_Water8Sound_mp3,96_FreezeSound_mp3",
+			"name": "stage10_mp3"
+		}
+	],
+	"resources": [
+		{
+			"url": "stage10/item_iceshoes.png",
+			"type": "image",
+			"name": "item_iceshoes"
+		},
+		{
+			"url": "stage10/item_bottle.png",
+			"type": "image",
+			"name": "item_bottle"
+		},
+		{
+			"url": "stage10/crash.png",
+			"type": "image",
+			"name": "stage10_crash_png"
+		},
+		{
+			"url": "stage10/crash.json",
+			"type": "json",
+			"name": "stage10_crash_json"
+		},
+		{
+			"url": "stage10/action.png",
+			"type": "image",
+			"name": "stage10_action_png"
+		},
+		{
+			"url": "stage10/action.json",
+			"type": "json",
+			"name": "stage10_action_json"
+		},
+		{
+			"url": "stage10/texture.json",
+			"type": "sheet",
+			"name": "stage10_texture"
+		},
+		{
+			"url": "stage10/91_DoorOpenSound.mp3",
+			"type": "sound",
+			"name": "91_DoorOpenSound_mp3"
+		},
+		{
+			"url": "stage10/82_GlassBreak2Sound.mp3",
+			"type": "sound",
+			"name": "82_GlassBreak2Sound_mp3"
+		},
+		{
+			"url": "stage10/14_Water8Sound.mp3",
+			"type": "sound",
+			"name": "14_Water8Sound_mp3"
+		},
+		{
+			"url": "stage10/96_FreezeSound.mp3",
+			"type": "sound",
+			"name": "96_FreezeSound_mp3"
+		},
+		{
+			"url": "stage10/53_SuberiSound.mp3",
+			"type": "sound",
+			"name": "53_SuberiSound_mp3"
+		},
+		{
+			"url": "stage10/78_KickSound.mp3",
+			"type": "sound",
+			"name": "78_KickSound_mp3"
+		},
+		{
+			"url": "stage10/25_BokeSound.mp3",
+			"type": "sound",
+			"name": "25_BokeSound_mp3"
+		},
+		{
+			"url": "stage10/26_WaterSound.mp3",
+			"type": "sound",
+			"name": "26_WaterSound_mp3"
+		},
+		{
+			"url": "stage10/120_DonSound.mp3",
+			"type": "sound",
+			"name": "120_DonSound_mp3"
+		}
+	]
+}

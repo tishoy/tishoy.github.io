@@ -1,0 +1,183 @@
+{
+	"groups": [
+		{
+			"keys": "stage29_action_png,stage29_women_action_png,item_peper,item_try_taste_stick,item_hundred_one_yuan,item_hundred_yuan,item_yellow_eggs,item_try_taste,item_fries,item_carrot,item_white_eggs,item_potato,item_beaf,item_on_sale,item_tomato,item_durian,item_fish_fillet,item_drumsticks,item_garlic",
+			"name": "stage29_png"
+		},
+		{
+			"keys": "stage29_texture,stage29_action_json,stage29_women_action_json",
+			"name": "stage29_json"
+		},
+		{
+			"keys": "4_JumpSound_mp3,24_KusaiSound_mp3,35_PuyonSound_mp3,43_EatSound_mp3,60_Coin6Sound_mp3,75_IncorrectSound_mp3,97_RegiSound_mp3,102_Regi2Sound_mp3,118_Don2Sound_mp3,123_AseriSound_mp3,22_TamagoCrashSound_mp3",
+			"name": "stage29_mp3"
+		}
+	],
+	"resources": [
+		{
+			"url": "stage29/item_peper.png",
+			"type": "image",
+			"name": "item_peper"
+		},
+		{
+			"url": "stage29/item_try_taste_stick.png",
+			"type": "image",
+			"name": "item_try_taste_stick"
+		},
+		{
+			"url": "stage29/item_hundred_one_yuan.png",
+			"type": "image",
+			"name": "item_hundred_one_yuan"
+		},
+		{
+			"url": "stage29/item_hundred_yuan.png",
+			"type": "image",
+			"name": "item_hundred_yuan"
+		},
+		{
+			"url": "stage29/item_yellow_eggs.png",
+			"type": "image",
+			"name": "item_yellow_eggs"
+		},
+		{
+			"url": "stage29/item_try_taste.png",
+			"type": "image",
+			"name": "item_try_taste"
+		},
+		{
+			"url": "stage29/item_fries.png",
+			"type": "image",
+			"name": "item_fries"
+		},
+		{
+			"url": "stage29/item_carrot.png",
+			"type": "image",
+			"name": "item_carrot"
+		},
+		{
+			"url": "stage29/item_white_eggs.png",
+			"type": "image",
+			"name": "item_white_eggs"
+		},
+		{
+			"url": "stage29/item_potato.png",
+			"type": "image",
+			"name": "item_potato"
+		},
+		{
+			"url": "stage29/item_beaf.png",
+			"type": "image",
+			"name": "item_beaf"
+		},
+		{
+			"url": "stage29/item_on_sale.png",
+			"type": "image",
+			"name": "item_on_sale"
+		},
+		{
+			"url": "stage29/item_tomato.png",
+			"type": "image",
+			"name": "item_tomato"
+		},
+		{
+			"url": "stage29/item_durian.png",
+			"type": "image",
+			"name": "item_durian"
+		},
+		{
+			"url": "stage29/item_fish_fillet.png",
+			"type": "image",
+			"name": "item_fish_fillet"
+		},
+		{
+			"url": "stage29/item_drumsticks.png",
+			"type": "image",
+			"name": "item_drumsticks"
+		},
+		{
+			"url": "stage29/item_garlic.png",
+			"type": "image",
+			"name": "item_garlic"
+		},
+		{
+			"url": "stage29/action.png",
+			"type": "image",
+			"name": "stage29_action_png"
+		},
+		{
+			"url": "stage29/action.json",
+			"type": "json",
+			"name": "stage29_action_json"
+		},
+		{
+			"url": "stage29/women_action.png",
+			"type": "image",
+			"name": "stage29_women_action_png"
+		},
+		{
+			"url": "stage29/women_action.json",
+			"type": "json",
+			"name": "stage29_women_action_json"
+		},
+		{
+			"url": "stage29/texture.json",
+			"type": "sheet",
+			"name": "stage29_texture"
+		},
+		{
+			"url": "stage29/4_JumpSound.mp3",
+			"type": "sound",
+			"name": "4_JumpSound_mp3"
+		},
+		{
+			"url": "stage29/24_KusaiSound.mp3",
+			"type": "sound",
+			"name": "24_KusaiSound_mp3"
+		},
+		{
+			"url": "stage29/35_PuyonSound.mp3",
+			"type": "sound",
+			"name": "35_PuyonSound_mp3"
+		},
+		{
+			"url": "stage29/43_EatSound.mp3",
+			"type": "sound",
+			"name": "43_EatSound_mp3"
+		},
+		{
+			"url": "stage29/60_Coin6Sound.mp3",
+			"type": "sound",
+			"name": "60_Coin6Sound_mp3"
+		},
+		{
+			"url": "stage29/75_IncorrectSound.mp3",
+			"type": "sound",
+			"name": "75_IncorrectSound_mp3"
+		},
+		{
+			"url": "stage29/97_RegiSound.mp3",
+			"type": "sound",
+			"name": "97_RegiSound_mp3"
+		},
+		{
+			"url": "stage29/102_Regi2Sound.mp3",
+			"type": "sound",
+			"name": "102_Regi2Sound_mp3"
+		},
+		{
+			"url": "stage29/118_Don2Sound.mp3",
+			"type": "sound",
+			"name": "118_Don2Sound_mp3"
+		},
+		{
+			"url": "stage29/123_AseriSound.mp3",
+			"type": "sound",
+			"name": "123_AseriSound_mp3"
+		},
+		{
+			"url": "stage29/22_TamagoCrashSound.mp3",
+			"type": "sound",
+			"name": "22_TamagoCrashSound_mp3"
+		}
+	]
+}

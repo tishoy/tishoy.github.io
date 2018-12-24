@@ -1,0 +1,143 @@
+{
+	"groups": [
+		{
+			"keys": "item_cover,bg_png,stand_png,stove_png,larm_png,rarm_png,bag_png,cover_png,pot_png,boy_action_png,pop_enter_png,pop_boom_png,fire_action_png,pop_clear_png,cover_on_png,guide_1_png,guide_2_png,guide_0_png",
+			"name": "stage1_png"
+		},
+		{
+			"keys": "boy_action_json,pop_enter_json,pop_boom_json,fire_action_json,pop_clear_json,cover_on_json",
+			"name": "stage1_json"
+		},
+		{
+			"keys": "111_Burst2Sound_mp3",
+			"name": "stage1_mp3"
+		}
+	],
+	"resources": [
+		{
+			"url": "stage1/guide_0.png",
+			"type": "image",
+			"name": "guide_0_png"
+		},
+		{
+			"url": "stage1/guide_1.png",
+			"type": "image",
+			"name": "guide_1_png"
+		},
+		{
+			"url": "stage1/guide_2.png",
+			"type": "image",
+			"name": "guide_2_png"
+		},
+		{
+			"url": "stage1/item_cover.png",
+			"type": "image",
+			"name": "item_cover"
+		},
+		{
+			"url": "stage1/bg.png",
+			"type": "image",
+			"name": "bg_png"
+		},
+		{
+			"url": "stage1/stand.png",
+			"type": "image",
+			"name": "stand_png"
+		},
+		{
+			"url": "stage1/stove.png",
+			"type": "image",
+			"name": "stove_png"
+		},
+		{
+			"url": "stage1/pot.png",
+			"type": "image",
+			"name": "pot_png"
+		},
+		{
+			"url": "stage1/cover.png",
+			"type": "image",
+			"name": "cover_png"
+		},
+		{
+			"url": "stage1/larm.png",
+			"type": "image",
+			"name": "larm_png"
+		},
+		{
+			"url": "stage1/rarm.png",
+			"type": "image",
+			"name": "rarm_png"
+		},
+		{
+			"url": "stage1/bag.png",
+			"type": "image",
+			"name": "bag_png"
+		},
+		{
+			"url": "stage1/boy_action.png",
+			"type": "image",
+			"name": "boy_action_png"
+		},
+		{
+			"url": "stage1/boy_action.json",
+			"type": "json",
+			"name": "boy_action_json"
+		},
+		{
+			"url": "stage1/pop_enter.png",
+			"type": "image",
+			"name": "pop_enter_png"
+		},
+		{
+			"url": "stage1/pop_enter.json",
+			"type": "json",
+			"name": "pop_enter_json"
+		},
+		{
+			"url": "stage1/pop_boom.png",
+			"type": "image",
+			"name": "pop_boom_png"
+		},
+		{
+			"url": "stage1/fire_action.json",
+			"type": "json",
+			"name": "fire_action_json"
+		},
+		{
+			"url": "stage1/fire_action.png",
+			"type": "image",
+			"name": "fire_action_png"
+		},
+		{
+			"url": "stage1/cover_on.json",
+			"type": "json",
+			"name": "cover_on_json"
+		},
+		{
+			"url": "stage1/cover_on.png",
+			"type": "image",
+			"name": "cover_on_png"
+		},
+		{
+			"url": "stage1/pop_boom.json",
+			"type": "json",
+			"name": "pop_boom_json"
+		},
+		{
+			"url": "stage1/pop_clear.png",
+			"type": "image",
+			"name": "pop_clear_png"
+		},
+		{
+			"url": "stage1/pop_clear.json",
+			"type": "json",
+			"name": "pop_clear_json"
+		},
+		{
+			"url": "stage1/111_Burst2Sound.mp3",
+			"type": "sound",
+			"name": "111_Burst2Sound_mp3"
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"groups": [
+		{
+			"keys": "stage12_action_png",
+			"name": "stage12_png"
+		},
+		{
+			"keys": "stage12_texture,stage12_action_json",
+			"name": "stage12_json"
+		},
+		{
+			"keys": "8_ShineSound_mp3,43_EatSound_mp3,72_Metal4Sound_mp3,90_DrinkSound_mp3,44_Open2Sound_mp3",
+			"name": "stage12_mp3"
+		}
+	],
+	"resources": [
+		{
+			"url": "stage12/action.png",
+			"type": "image",
+			"name": "stage12_action_png"
+		},
+		{
+			"url": "stage12/action.json",
+			"type": "json",
+			"name": "stage12_action_json"
+		},
+		{
+			"url": "stage12/texture.json",
+			"type": "sheet",
+			"name": "stage12_texture"
+		},
+		{
+			"url": "stage12/8_ShineSound.mp3",
+			"type": "sound",
+			"name": "8_ShineSound_mp3"
+		},
+		{
+			"url": "stage12/43_EatSound.mp3",
+			"type": "sound",
+			"name": "43_EatSound_mp3"
+		},
+		{
+			"url": "stage12/72_Metal4Sound.mp3",
+			"type": "sound",
+			"name": "72_Metal4Sound_mp3"
+		},
+		{
+			"url": "stage12/90_DrinkSound.mp3",
+			"type": "sound",
+			"name": "90_DrinkSound_mp3"
+		},
+		{
+			"url": "stage12/44_Open2Sound.mp3",
+			"type": "sound",
+			"name": "44_Open2Sound_mp3"
+		}
+		
+	]
+}

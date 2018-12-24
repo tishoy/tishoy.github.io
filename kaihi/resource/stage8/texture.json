@@ -1,0 +1,7 @@
+{"file":"texture.png","frames":{
+"bg":{"x":1,"y":1,"w":880,"h":1320,"offX":0,"offY":0,"sourceW":880,"sourceH":1320},
+"cemetery":{"x":883,"y":1,"w":880,"h":1036,"offX":0,"offY":6,"sourceW":880,"sourceH":1042},
+"grid":{"x":883,"y":1039,"w":642,"h":642,"offX":4,"offY":3,"sourceW":649,"sourceH":648},
+"keng":{"x":1601,"y":1039,"w":78,"h":78,"offX":1,"offY":1,"sourceW":81,"sourceH":80},
+"stone":{"x":1527,"y":1039,"w":72,"h":86,"offX":4,"offY":1,"sourceW":81,"sourceH":89},
+"wall":{"x":1,"y":1323,"w":880,"h":112,"offX":0,"offY":4,"sourceW":880,"sourceH":118}}}

@@ -1,0 +1,15 @@
+{"file":"texture3.png","frames":{
+"sun":{"x":1408,"y":854,"w":354,"h":354,"offX":6,"offY":13,"sourceW":363,"sourceH":374},
+"bg":{"x":2672,"y":1,"w":880,"h":1320,"offX":0,"offY":0,"sourceW":880,"sourceH":1320},
+"cloud":{"x":1664,"y":1297,"w":113,"h":52,"offX":3,"offY":6,"sourceW":118,"sourceH":62},
+"earth":{"x":719,"y":854,"w":687,"h":845,"offX":8,"offY":4,"sourceW":695,"sourceH":849},
+"earth_shadow":{"x":1,"y":854,"w":716,"h":889,"offX":50,"offY":41,"sourceW":766,"sourceH":930},
+"ground":{"x":1,"y":1,"w":1787,"h":851,"offX":29,"offY":5,"sourceW":1836,"sourceH":893},
+"hane":{"x":3756,"y":1,"w":39,"h":43,"offX":3,"offY":4,"sourceW":46,"sourceH":52},
+"hane3":{"x":1408,"y":1297,"w":126,"h":118,"offX":3,"offY":11,"sourceW":135,"sourceH":132},
+"hit_back":{"x":1408,"y":1210,"w":186,"h":85,"offX":3,"offY":2,"sourceW":191,"sourceH":90},
+"jane2":{"x":1536,"y":1297,"w":126,"h":118,"offX":3,"offY":11,"sourceW":135,"sourceH":132},
+"smash":{"x":3554,"y":1,"w":200,"h":74,"offX":3,"offY":3,"sourceW":206,"sourceH":80},
+"space":{"x":1790,"y":1,"w":880,"h":1320,"offX":0,"offY":0,"sourceW":880,"sourceH":1320},
+"star":{"x":1764,"y":854,"w":22,"h":27,"offX":4,"offY":2,"sourceW":30,"sourceH":31},
+"start":{"x":1596,"y":1210,"w":185,"h":85,"offX":4,"offY":2,"sourceW":192,"sourceH":90}}}

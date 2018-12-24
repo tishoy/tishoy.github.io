@@ -1,0 +1,78 @@
+{
+	"groups": [
+		{
+			"keys": "stage24_action_png,stage24_sh_action_png,stage24_fish_action_png,item_fish,item_kelp",
+			"name": "stage24_png"
+		},
+		{
+			"keys": "stage24_texture,stage24_sh_action_json,stage24_fish_action_json,stage24_action_json",
+			"name": "stage24_json"
+		},
+		{
+			"keys": "13_Water3Sound_mp3,78_KickSound_mp3,123_AseriSound_mp3",
+			"name": "stage24_mp3"
+		}
+	],
+	"resources": [
+		{
+			"url": "stage24/item_fish.png",
+			"type": "image",
+			"name": "item_fish"
+		},
+		{
+			"url": "stage24/item_kelp.png",
+			"type": "image",
+			"name": "item_kelp"
+		},
+		{
+			"url": "stage24/action.png",
+			"type": "image",
+			"name": "stage24_action_png"
+		},
+		{
+			"url": "stage24/action.json",
+			"type": "json",
+			"name": "stage24_action_json"
+		},
+		{
+			"url": "stage24/fish_action.json",
+			"type": "json",
+			"name": "stage24_fish_action_json"
+		},
+		{
+			"url": "stage24/fish_action.png",
+			"type": "image",
+			"name": "stage24_fish_action_png"
+		},
+		{
+			"url": "stage24/sh_action.json",
+			"type": "json",
+			"name": "stage24_sh_action_json"
+		},
+		{
+			"url": "stage24/sh_action.png",
+			"type": "image",
+			"name": "stage24_sh_action_png"
+		},
+		{
+			"url": "stage24/texture.json",
+			"type": "sheet",
+			"name": "stage24_texture"
+		},
+		{
+			"url": "stage24/13_Water3Sound.mp3",
+			"type": "sound",
+			"name": "13_Water3Sound_mp3"
+		},
+		{
+			"url": "stage24/78_KickSound.mp3",
+			"type": "sound",
+			"name": "78_KickSound_mp3"
+		},
+		{
+			"url": "stage24/123_AseriSound.mp3",
+			"type": "sound",
+			"name": "123_AseriSound_mp3"
+		}
+	]
+}

@@ -1,0 +1,238 @@
+{
+	"groups": [
+		{
+			"keys": "i18n_json,select_json,card_tip_json",
+			"name": "config"
+		},
+		{
+			"keys": "title_init,title_start,head_ui,124_Main1Sound_1_mp3,98_SelectSound_mp3,52_ClickSound_mp3,rank_png,crown_sheet,rank_title_png",
+			"name": "title_scene"
+		},
+		{
+			"keys": "loading_bg_png,loading_boy_png,loading_boy_json,loading_word_png,loading_word_json",
+			"name": "loading_ui"
+		},
+		{
+			"keys": "nullitem_png,card_sheet,card_pop_sheet,items_png,okbtn_png,itemget_png,itemfull_png,arrow_png,112_ItemSound_mp3,hand_png,touch_png",
+			"name": "game_scene"
+		},
+		{
+			"keys": "bord_rotation_png,clear_boy_png,bord_rotation_json,clear_boy_json,pops_sheet,tip_sheet",
+			"name": "pops"
+		},
+		{
+			"keys": "tip_sheet",
+			"name": "tip"
+		},
+		{
+			"keys": "data_scene,card_sheet,card_pop_sheet",
+			"name": "data_scene"
+		},
+		{
+			"keys": "how_to_play",
+			"name": "how_to_play"
+		}
+	],
+	"resources": [
+		{
+			"url": "stage1/hand.png",
+			"type": "image",
+			"name": "hand_png"
+		},
+		{
+			"url": "stage1/touch.png",
+			"type": "image",
+			"name": "touch_png"
+		},
+		{
+			"url": "default/i18n.json",
+			"type": "json",
+			"name": "i18n_json"
+		},
+		{
+			"url": "default/select.json",
+			"type": "json",
+			"name": "select_json"
+		},
+		{
+			"url": "default/pop/bord_rotation.png",
+			"type": "image",
+			"name": "bord_rotation_png"
+		},
+		{
+			"url": "default/pop/bord_rotation.json",
+			"type": "json",
+			"name": "bord_rotation_json"
+		},
+		{
+			"url": "default/pop/clear_boy.png",
+			"type": "image",
+			"name": "clear_boy_png"
+		},
+		{
+			"url": "default/pop/clear_boy.json",
+			"type": "json",
+			"name": "clear_boy_json"
+		},
+		{
+			"url": "default/pop/pops.json",
+			"type": "sheet",
+			"name": "pops_sheet"
+		},
+		{
+			"url": "default/tip/tip.json",
+			"type": "sheet",
+			"name": "tip_sheet"
+		},
+		{
+			"url": "default/card/texturecard.json",
+			"type": "sheet",
+			"name": "card_sheet"
+		},
+		{
+			"url": "default/card_tip.json",
+			"type": "json",
+			"name": "card_tip_json"
+		},
+		{
+			"url": "default/data/data_scene.json",
+			"type": "sheet",
+			"name": "data_scene"
+		},
+		{
+			"url": "default/pop/howtoplay.json",
+			"type": "sheet",
+			"name": "how_to_play"
+		},
+		{
+			"url": "default/112_ItemSound.mp3",
+			"type": "sound",
+			"name": "112_ItemSound_mp3"
+		},
+		{
+			"url": "default/52_ClickSound.mp3",
+			"type": "sound",
+			"name": "52_ClickSound_mp3"
+		},
+		{
+			"url": "default/loading/bg.png",
+			"type": "image",
+			"name": "loading_bg_png"
+		},
+		{
+			"url": "default/loading/loadingboy.png",
+			"type": "image",
+			"name": "loading_boy_png"
+		},
+		{
+			"url": "default/loading/loadingboy.json",
+			"type": "json",
+			"name": "loading_boy_json"
+		},
+		{
+			"url": "default/loading/loadingword.png",
+			"type": "image",
+			"name": "loading_word_png"
+		},
+		{
+			"url": "default/loading/loadingword.json",
+			"type": "json",
+			"name": "loading_word_json"
+		},
+		{
+			"url": "default/124_Main1Sound_1.mp3",
+			"type": "sound",
+			"name": "124_Main1Sound_1_mp3"
+		},
+		{
+			"url": "default/98_SelectSound.mp3",
+			"type": "sound",
+			"name": "98_SelectSound_mp3"
+		},
+		{
+			"url": "default/title_init.json",
+			"type": "sheet",
+			"name": "title_init"
+		},
+		{
+			"url": "default/title_start.json",
+			"type": "sheet",
+			"name": "title_start"
+		},
+		{
+			"url": "default/head_ui.json",
+			"type": "sheet",
+			"name": "head_ui"
+		},
+		{
+			"url": "default/pop/cardPop.json",
+			"type": "sheet",
+			"name": "card_pop_sheet"
+		},
+		{
+			"url": "common/rank.png",
+			"type": "image",
+			"name": "rank_png"
+		},
+		{
+			"url": "common/rank_title.png",
+			"type": "image",
+			"name": "rank_title_png"
+		},
+		{
+			"url": "common/crown.json",
+			"type": "sheet",
+			"name": "crown_sheet"
+		},
+		{
+			"url": "common/itemget.png",
+			"type": "image",
+			"name": "itemget_png"
+		},
+		{
+			"url": "common/itemfull.png",
+			"type": "image",
+			"name": "itemfull_png"
+		},
+		{
+			"url": "common/okbtn.png",
+			"type": "image",
+			"name": "okbtn_png"
+		},
+		{
+			"url": "common/head.png",
+			"type": "image",
+			"name": "head_png"
+		},
+		{
+			"url": "common/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "common/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "common/menu.png",
+			"type": "image",
+			"name": "menu_png"
+		},
+		{
+			"url": "common/arrow.png",
+			"type": "image",
+			"name": "arrow_png"
+		},
+		{
+			"url": "common/items.png",
+			"type": "image",
+			"name": "items_png"
+		},
+		{
+			"url": "common/nullitem.png",
+			"type": "image",
+			"name": "nullitem_png"
+		}
+	]
+}

@@ -1,0 +1,68 @@
+{
+	"groups": [
+		{
+			"keys": "stage23_action_png,item_peper,item_flashlight",
+			"name": "stage23_png"
+		},
+		{
+			"keys": "stage23_texture,stage23_action_json",
+			"name": "stage23_json"
+		},
+		{
+			"keys": "4_JumpSound_mp3,32_RunEchoSound_mp3,43_EatSound_mp3,78_KickSound_mp3,82_GlassBreak2Sound_mp3",
+			"name": "stage23_mp3"
+		}
+	],
+	"resources": [
+		{
+			"url": "stage23/item_peper.png",
+			"type": "image",
+			"name": "item_peper"
+		},
+		{
+			"url": "stage23/item_flashlight.png",
+			"type": "image",
+			"name": "item_flashlight"
+		},
+		{
+			"url": "stage23/action.png",
+			"type": "image",
+			"name": "stage23_action_png"
+		},
+		{
+			"url": "stage23/action.json",
+			"type": "json",
+			"name": "stage23_action_json"
+		},
+		{
+			"url": "stage23/texture.json",
+			"type": "sheet",
+			"name": "stage23_texture"
+		},
+		{
+			"url": "stage23/4_JumpSound.mp3",
+			"type": "sound",
+			"name": "4_JumpSound_mp3"
+		},
+		{
+			"url": "stage23/32_RunEchoSound.mp3",
+			"type": "sound",
+			"name": "32_RunEchoSound_mp3"
+		},
+		{
+			"url": "stage23/43_EatSound.mp3",
+			"type": "sound",
+			"name": "43_EatSound_mp3"
+		},
+		{
+			"url": "stage23/78_KickSound.mp3",
+			"type": "sound",
+			"name": "78_KickSound_mp3"
+		},
+		{
+			"url": "stage23/82_GlassBreak2Sound.mp3",
+			"type": "sound",
+			"name": "82_GlassBreak2Sound_mp3"
+		}
+	]
+}

@@ -1,0 +1,79 @@
+{
+	"groups": [
+		{
+			"keys": "stage5_action_png,item_ice,item_cake,item_furiko",
+			"name": "stage5_png"
+		},
+		{
+			"keys": "stage5_texture,stage5_action_json",
+			"name": "stage5_json"
+		},
+		{
+			"keys": "33_ReizoukoOpenSound_mp3,34_ReizoukoCloseSound_mp3,38_UpSound_mp3,43_EatSound_mp3,74_KuwagataSound_mp3,78_KickSound_mp3",
+			"name": "stage5_mp3"
+		}
+	],
+	"resources": [
+		{
+			"url": "stage5/item_ice.png",
+			"type": "image",
+			"name": "item_ice"
+		},
+		{
+			"url": "stage5/item_cake.png",
+			"type": "image",
+			"name": "item_cake"
+		},
+		{
+			"url": "stage5/item_furiko.png",
+			"type": "image",
+			"name": "item_furiko"
+		},
+		{
+			"url": "stage5/action.png",
+			"type": "image",
+			"name": "stage5_action_png"
+		},
+		{
+			"url": "stage5/action.json",
+			"type": "json",
+			"name": "stage5_action_json"
+		},
+		{
+			"url": "stage5/texture.json",
+			"type": "sheet",
+			"name": "stage5_texture"
+		},
+		{
+			"url": "stage5/33_ReizoukoOpenSound.mp3",
+			"type": "sound",
+			"name": "33_ReizoukoOpenSound_mp3"
+		},
+		{
+			"url": "stage5/34_ReizoukoCloseSound.mp3",
+			"type": "sound",
+			"name": "34_ReizoukoCloseSound_mp3"
+		},
+		{
+			"url": "stage5/38_UpSound.mp3",
+			"type": "sound",
+			"name": "38_UpSound_mp3"
+		},
+		{
+			"url": "stage5/43_EatSound.mp3",
+			"type": "sound",
+			"name": "43_EatSound_mp3"
+		}
+		,
+		{
+			"url": "stage5/74_KuwagataSound.mp3",
+			"type": "sound",
+			"name": "74_KuwagataSound_mp3"
+		},
+		{
+			"url": "stage5/78_KickSound.mp3",
+			"type": "sound",
+			"name": "78_KickSound_mp3"
+		}
+	]
+}

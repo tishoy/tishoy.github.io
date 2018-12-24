@@ -1,0 +1,8 @@
+{"file":"title_init.png","frames":{
+"select2":{"x":566,"y":700,"w":563,"h":697,"offX":39,"offY":32,"sourceW":640,"sourceH":760},
+"select1":{"x":1131,"y":1,"w":563,"h":697,"offX":39,"offY":32,"sourceW":640,"sourceH":760},
+"select5":{"x":566,"y":1,"w":563,"h":697,"offX":39,"offY":32,"sourceW":640,"sourceH":760},
+"select4":{"x":1,"y":1,"w":563,"h":699,"offX":39,"offY":31,"sourceW":640,"sourceH":760},
+"select3":{"x":1,"y":702,"w":563,"h":697,"offX":39,"offY":32,"sourceW":640,"sourceH":760},
+"start":{"x":1696,"y":1,"w":233,"h":65,"offX":6,"offY":12,"sourceW":242,"sourceH":86},
+"title":{"x":1,"y":1401,"w":538,"h":311,"offX":12,"offY":20,"sourceW":562,"sourceH":342}}}

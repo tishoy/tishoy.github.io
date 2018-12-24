@@ -1,0 +1,5 @@
+{"file":"texture.png","frames":{
+"bg":{"x":1,"y":1,"w":880,"h":1320,"offX":0,"offY":0,"sourceW":881,"sourceH":1321},
+"go":{"x":1,"y":1619,"w":185,"h":85,"offX":4,"offY":2,"sourceW":192,"sourceH":91},
+"shoe":{"x":883,"y":1,"w":60,"h":47,"offX":5,"offY":9,"sourceW":72,"sourceH":62},
+"together":{"x":1,"y":1323,"w":372,"h":294,"offX":5,"offY":23,"sourceW":399,"sourceH":327}}}

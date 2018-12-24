@@ -1,0 +1,63 @@
+{
+	"groups": [
+		{
+			"keys": "stage17_action_png,item_apple",
+			"name": "stage17_png"
+		},
+		{
+			"keys": "stage17_texture,stage17_action_json",
+			"name": "stage17_json"
+		},
+		{
+			"keys": "9_KonSound_mp3,23_SuburiSound_mp3,30_BuchiSound_mp3,43_EatSound_mp3,77_Crash2Sound_mp3",
+			"name": "stage17_mp3"
+		}
+	],
+	"resources": [
+		{
+			"url": "stage17/item_apple.png",
+			"type": "image",
+			"name": "item_apple"
+		},
+		{
+			"url": "stage17/action.png",
+			"type": "image",
+			"name": "stage17_action_png"
+		},
+		{
+			"url": "stage17/action.json",
+			"type": "json",
+			"name": "stage17_action_json"
+		},
+		{
+			"url": "stage17/texture.json",
+			"type": "sheet",
+			"name": "stage17_texture"
+		},
+		{
+			"url": "stage17/9_KonSound.mp3",
+			"type": "sound",
+			"name": "9_KonSound_mp3"
+		},
+		{
+			"url": "stage17/23_SuburiSound.mp3",
+			"type": "sound",
+			"name": "23_SuburiSound_mp3"
+		},
+		{
+			"url": "stage17/30_BuchiSound.mp3",
+			"type": "sound",
+			"name": "30_BuchiSound_mp3"
+		},
+		{
+			"url": "stage17/43_EatSound.mp3",
+			"type": "sound",
+			"name": "43_EatSound_mp3"
+		},
+		{
+			"url": "stage17/77_Crash2Sound.mp3",
+			"type": "sound",
+			"name": "77_Crash2Sound_mp3"
+		}
+	]
+}

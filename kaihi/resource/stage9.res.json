@@ -1,0 +1,63 @@
+{
+	"groups": [
+		{
+			"keys": "stage9_action_png,item_tako,item_ukiwa,item_kani,item_mizugumo",
+			"name": "stage9_png"
+		},
+		{
+			"keys": "stage9_texture,stage9_action_json",
+			"name": "stage9_json"
+		},
+		{
+			"keys": "57_NamiSound_1_mp3,61_Water2Sound_mp3",
+			"name": "stage9_mp3"
+		}
+	],
+	"resources": [
+		{
+			"url": "stage9/item_tako.png",
+			"type": "image",
+			"name": "item_tako"
+		},
+		{
+			"url": "stage9/item_kani.png",
+			"type": "image",
+			"name": "item_kani"
+		},
+		{
+			"url": "stage9/item_mizugumo.png",
+			"type": "image",
+			"name": "item_mizugumo"
+		},
+		{
+			"url": "stage9/item_ukiwa.png",
+			"type": "image",
+			"name": "item_ukiwa"
+		},
+		{
+			"url": "stage9/action.png",
+			"type": "image",
+			"name": "stage9_action_png"
+		},
+		{
+			"url": "stage9/action.json",
+			"type": "json",
+			"name": "stage9_action_json"
+		},
+		{
+			"url": "stage9/texture.json",
+			"type": "sheet",
+			"name": "stage9_texture"
+		},
+		{
+			"url": "stage9/57_NamiSound_1.mp3",
+			"type": "sound",
+			"name": "57_NamiSound_1_mp3"
+		},
+		{
+			"url": "stage9/61_Water2Sound.mp3",
+			"type": "sound",
+			"name": "61_Water2Sound_mp3"
+		}
+	]
+}

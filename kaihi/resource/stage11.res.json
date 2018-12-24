@@ -1,0 +1,73 @@
+{
+	"groups": [
+		{
+			"keys": "stage11_action_png,item_ladder,item_brother",
+			"name": "stage11_png"
+		},
+		{
+			"keys": "stage11_texture,stage11_action_json",
+			"name": "stage11_json"
+		},
+		{
+			"keys": "25_BokeSound_mp3,69_KishimiSound_mp3,106_CatSound_mp3,114_BushSound_mp3,119_BurstSound_mp3,35_PuyonSound_mp3",
+			"name": "stage11_mp3"
+		}
+	],
+	"resources": [
+		{
+			"url": "stage11/item_ladder.png",
+			"type": "image",
+			"name": "item_ladder"
+		},
+		{
+			"url": "stage11/item_brother.png",
+			"type": "image",
+			"name": "item_brother"
+		},
+		{
+			"url": "stage11/action.png",
+			"type": "image",
+			"name": "stage11_action_png"
+		},
+		{
+			"url": "stage11/action.json",
+			"type": "json",
+			"name": "stage11_action_json"
+		},
+		{
+			"url": "stage11/texture.json",
+			"type": "sheet",
+			"name": "stage11_texture"
+		},
+		{
+			"url": "stage11/25_BokeSound.mp3",
+			"type": "sound",
+			"name": "25_BokeSound_mp3"
+		},
+		{
+			"url": "stage11/69_KishimiSound.mp3",
+			"type": "sound",
+			"name": "69_KishimiSound_mp3"
+		},
+		{
+			"url": "stage11/106_CatSound.mp3",
+			"type": "sound",
+			"name": "106_CatSound_mp3"
+		},
+		{
+			"url": "stage11/114_BushSound.mp3",
+			"type": "sound",
+			"name": "114_BushSound_mp3"
+		},
+		{
+			"url": "stage11/119_BurstSound.mp3",
+			"type": "sound",
+			"name": "119_BurstSound_mp3"
+		},
+		{
+			"url": "stage11/35_PuyonSound.mp3",
+			"type": "sound",
+			"name": "35_PuyonSound_mp3"
+		}
+	]
+}

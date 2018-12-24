@@ -1,0 +1,15 @@
+{"file":"texture.png","frames":{
+"tool":{"x":1881,"y":1,"w":50,"h":112,"offX":2,"offY":2,"sourceW":55,"sourceH":118},
+"bg":{"x":1,"y":1,"w":880,"h":1320,"offX":0,"offY":0,"sourceW":880,"sourceH":1320},
+"engine":{"x":1933,"y":60,"w":88,"h":50,"offX":12,"offY":67,"sourceW":108,"sourceH":124},
+"head":{"x":1933,"y":1,"w":95,"h":57,"offX":8,"offY":62,"sourceW":108,"sourceH":124},
+"left":{"x":1169,"y":1,"w":283,"h":288,"offX":0,"offY":4,"sourceW":289,"sourceH":297},
+"red":{"x":1454,"y":1,"w":238,"h":216,"offX":6,"offY":7,"sourceW":253,"sourceH":231},
+"right":{"x":883,"y":1,"w":284,"h":289,"offX":5,"offY":3,"sourceW":289,"sourceH":297},
+"road":{"x":1,"y":1323,"w":880,"h":526,"offX":0,"offY":2,"sourceW":880,"sourceH":528},
+"start":{"x":1,"y":1994,"w":880,"h":51,"offX":0,"offY":2,"sourceW":880,"sourceH":57},
+"startbtn":{"x":1694,"y":1,"w":185,"h":85,"offX":4,"offY":2,"sourceW":192,"sourceH":90},
+"tair":{"x":1694,"y":88,"w":38,"h":39,"offX":1,"offY":1,"sourceW":40,"sourceH":41},
+"title":{"x":1,"y":1851,"w":880,"h":141,"offX":0,"offY":4,"sourceW":880,"sourceH":150},
+"tair1":{"x":1933,"y":112,"w":40,"h":50,"offX":5,"offY":7,"sourceW":51,"sourceH":64},
+"tair2":{"x":1975,"y":112,"w":40,"h":50,"offX":5,"offY":7,"sourceW":51,"sourceH":64}}}
