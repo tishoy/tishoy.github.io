@@ -452,8 +452,6 @@ class JPlatform {
             })
         } else if (this.name === "mi") {
             AdManager.getInstance().vedioLoaded = true;
-            var vedio = "miVedio";
-            resolve(vedio);
         }
     }
 
