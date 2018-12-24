@@ -59,6 +59,7 @@ class JPlatform {
             OPPO.loadingComplete()
         } else if (this.name === "mi") {
             // 游戏开始
+            console.log("123")
 XMGame.game_start(foo)  // 游戏loading蒙层会取消
 
 function foo(result) {
