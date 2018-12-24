@@ -5,10 +5,9 @@
 		"js/game.min_45aa06f6.js",
 		"js/tween.min_6c5a88f9.js",
 		"js/assetsmanager.min_f2e50bd1.js",
-		"js/promise.min_83a6a5d.js",
-		"js/GameAnalytics.min_aaf2e5d2.js"
+		"js/promise.min_83a6a5d.js"
 	],
 	"game": [
-		"js/main.min_c0067a2f.js"
+		"js/main.min_b50bed5c.js"
 	]
 }

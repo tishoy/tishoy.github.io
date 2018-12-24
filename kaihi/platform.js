@@ -58,20 +58,15 @@ class JPlatform {
         if (this.name === "oppo") {
             OPPO.loadingComplete()
         } else if (this.name === "mi") {
-            // 游戏开始
-            console.log("123")
-XMGame.game_start(foo)  // 游戏loading蒙层会取消
-console.log(XMGame);
-function foo(result) {
-  if (result.code === "3") {
-    // 需要调用提前游戏结束的逻辑，这是例子
-    XMGame.game_over({
-      cost_time: 10000,
-      score: 0
-    })
-  }
-}
+            XMGame.game_start(() => {
+                if (result.code === "3") {
+                    XMGame.game_over({
+                        cost_time: 10000,
+                        score: 0
+                    })
+                }
 
+            });
         }
     }
 

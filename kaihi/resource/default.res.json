@@ -5,7 +5,7 @@
 			"name": "config"
 		},
 		{
-			"keys": "title_init,title_start,head_ui,124_Main1Sound_1_mp3,98_SelectSound_mp3,52_ClickSound_mp3,rank_png,crown_sheet,rank_title_png",
+			"keys": "title_init,title_start,head_ui,124_Main1Sound_1_mp3,98_SelectSound_mp3,52_ClickSound_mp3,rank_png,crown_sheet,rank_title_png,board_png",
 			"name": "title_scene"
 		},
 		{
@@ -178,6 +178,11 @@
 			"url": "common/rank_title.png",
 			"type": "image",
 			"name": "rank_title_png"
+		},
+		{
+			"url": "common/board.png",
+			"type": "image",
+			"name": "board_png"
 		},
 		{
 			"url": "common/crown.json",
