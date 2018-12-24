@@ -535,12 +535,24 @@ class JPlatform {
                 console.log("joypac" + adData.result);
                 console.log("joypac" + adData.hasGetAd);
                 onPlay();
-                if (adData.result) {
-                    onEnd(true);
-                }
                 if (adData.hasGetAd) {
-                   
-                } 
+                    if (adData.result) {
+                        onEnd(var result = {
+                            start: true,
+                            finish: true
+                        });
+                    } else {
+                        onEnd(var result = {
+                            start: true,
+                            finish: false
+                        });
+                    }
+                } else {
+                     onEnd(var result = {
+                            start: false,
+                            finish: false
+                        });
+                }
             })
         }
     }
