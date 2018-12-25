@@ -547,12 +547,7 @@ class JPlatform {
                             finish: false
                         });
                     }
-                } else {
-                    onEnd({
-                        start: false,
-                        finish: false
-                    });
-                }
+                } 
             })
         }
     }
