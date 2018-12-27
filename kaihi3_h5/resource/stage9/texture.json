@@ -1,0 +1,13 @@
+{"file":"texture.png","frames":{
+"boy1":{"x":1055,"y":1,"w":170,"h":171,"offX":2,"offY":5,"sourceW":175,"sourceH":179},
+"boy2":{"x":883,"y":1,"w":170,"h":171,"offX":2,"offY":5,"sourceW":175,"sourceH":179},
+"ninjia":{"x":1227,"y":1,"w":57,"h":194,"offX":3,"offY":3,"sourceW":62,"sourceH":199},
+"sea":{"x":1,"y":1323,"w":880,"h":645,"offX":0,"offY":1,"sourceW":880,"sourceH":646},
+"tree":{"x":975,"y":174,"w":77,"h":96,"offX":6,"offY":4,"sourceW":88,"sourceH":106},
+"wood":{"x":1,"y":1970,"w":76,"h":59,"offX":4,"offY":4,"sourceW":84,"sourceH":67},
+"ball1":{"x":79,"y":1970,"w":23,"h":22,"offX":2,"offY":3,"sourceW":28,"sourceH":28},
+"ball2":{"x":79,"y":1994,"w":19,"h":19,"offX":1,"offY":1,"sourceW":22,"sourceH":21},
+"ball3":{"x":1,"y":2031,"w":15,"h":14,"offX":2,"offY":2,"sourceW":19,"sourceH":19},
+"ball4":{"x":18,"y":2031,"w":12,"h":12,"offX":2,"offY":2,"sourceW":17,"sourceH":17},
+"bg":{"x":1,"y":1,"w":880,"h":1320,"offX":0,"offY":0,"sourceW":880,"sourceH":1320},
+"boy":{"x":883,"y":174,"w":90,"h":118,"offX":0,"offY":1,"sourceW":93,"sourceH":121}}}

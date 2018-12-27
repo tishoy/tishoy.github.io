@@ -1,0 +1,1004 @@
+[
+    null,
+    {
+        "No": 1,
+        "star": 1,
+        "type": 1,
+        "stage": 1,
+        "result": 1
+    },
+    {
+        "No": 2,
+        "star": 1,
+        "type": 2,
+        "stage": 1,
+        "result": 2
+    },
+    {
+        "No": 3,
+        "star": 1,
+        "type": 1,
+        "stage": 2,
+        "result": 1
+    },
+    {
+        "No": 4,
+        "star": 1,
+        "type": 0,
+        "stage": 2,
+        "result": 2
+    },
+    {
+        "No": 5,
+        "star": 2,
+        "type": 2,
+        "stage": 2,
+        "result": 3
+    },
+    {
+        "No": 6,
+        "star": 2,
+        "type": 2,
+        "stage": 2,
+        "result": 4
+    },
+    {
+        "No": 7,
+        "star": 1,
+        "type": 1,
+        "stage": 3,
+        "result": 1
+    },
+    {
+        "No": 8,
+        "star": 2,
+        "type": 2,
+        "stage": 3,
+        "result": 2
+    },
+    {
+        "No": 9,
+        "star": 3,
+        "type": 2,
+        "stage": 3,
+        "result": 3
+    },
+    {
+        "No": 10,
+        "star": 1,
+        "type": 1,
+        "stage": 3,
+        "result": 4
+    },
+    {
+        "No": 11,
+        "star": 1,
+        "type": 1,
+        "stage": 4,
+        "result": 1
+    },
+    {
+        "No": 12,
+        "star": 1,
+        "type": 1,
+        "stage": 4,
+        "result": 2
+    },
+    {
+        "No": 13,
+        "star": 1,
+        "type": 1,
+        "stage": 4,
+        "result": 3
+    },
+    {
+        "No": 14,
+        "star": 1,
+        "type": 1,
+        "stage": 4,
+        "result": 4
+    },
+    {
+        "No": 15,
+        "star": 2,
+        "type": 2,
+        "stage": 4,
+        "result": 5
+    },
+    {
+        "No": 16,
+        "star": 1,
+        "type": 0,
+        "stage": 4,
+        "result": 6
+    },
+    {
+        "No": 17,
+        "star": 3,
+        "type": 2,
+        "stage": 4,
+        "result": 7
+    },
+    {
+        "No": 18,
+        "star": 1,
+        "type": 0,
+        "stage": 4,
+        "result": 8
+    },
+    {
+        "No": 19,
+        "star": 1,
+        "type": 1,
+        "stage": 5,
+        "result": 1
+    },
+    {
+        "No": 20,
+        "star": 1,
+        "type": 1,
+        "stage": 5,
+        "result": 2
+    },
+    {
+        "No": 21,
+        "star": 1,
+        "type": 2,
+        "stage": 5,
+        "result": 3
+    },
+    {
+        "No": 22,
+        "star": 3,
+        "type": 1,
+        "stage": 5,
+        "result": 4
+    },
+    {
+        "No": 23,
+        "star": 3,
+        "type": 1,
+        "stage": 5,
+        "result": 5
+    },
+    {
+        "No": 24,
+        "star": 1,
+        "type": 0,
+        "stage": 5,
+        "result": 6
+    },
+    {
+        "No": 25,
+        "star": 1,
+        "type": 1,
+        "stage": 6,
+        "result": 1
+    },
+    {
+        "No": 26,
+        "star": 1,
+        "type": 2,
+        "stage": 6,
+        "result": 2
+    },
+    {
+        "No": 27,
+        "star": 1,
+        "type": 0,
+        "stage": 6,
+        "result": 3
+    },
+    {
+        "No": 28,
+        "star": 1,
+        "type": 1,
+        "stage": 7,
+        "result": 1
+    },
+    {
+        "No": 29,
+        "star": 1,
+        "type": 1,
+        "stage": 7,
+        "result": 2
+    },
+    {
+        "No": 30,
+        "star": 1,
+        "type": 2,
+        "stage": 7,
+        "result": 3
+    },
+    {
+        "No": 31,
+        "star": 1,
+        "type": 1,
+        "stage": 8,
+        "result": 1
+    },
+    {
+        "No": 32,
+        "star": 1,
+        "type": 1,
+        "stage": 8,
+        "result": 2
+    },
+    {
+        "No": 33,
+        "star": 1,
+        "type": 2,
+        "stage": 8,
+        "result": 3
+    },
+    {
+        "No": 34,
+        "star": 2,
+        "type": 1,
+        "stage": 9,
+        "result": 1
+    },
+    {
+        "No": 35,
+        "star": 1,
+        "type": 1,
+        "stage": 9,
+        "result": 2
+    },
+    {
+        "No": 36,
+        "star": 1,
+        "type": 1,
+        "stage": 9,
+        "result": 3
+    },
+    {
+        "No": 37,
+        "star": 1,
+        "type": 1,
+        "stage": 9,
+        "result": 4
+    },
+    {
+        "No": 38,
+        "star": 2,
+        "type": 0,
+        "stage": 9,
+        "result": 5
+    },
+    {
+        "No": 39,
+        "star": 2,
+        "type": 2,
+        "stage": 9,
+        "result": 6
+    },
+    {
+        "No": 40,
+        "star": 1,
+        "type": 1,
+        "stage": 10,
+        "result": 1
+    },
+    {
+        "No": 41,
+        "star": 1,
+        "type": 1,
+        "stage": 10,
+        "result": 2
+    },
+    {
+        "No": 42,
+        "star": 2,
+        "type": 1,
+        "stage": 10,
+        "result": 3
+    },
+    {
+        "No": 43,
+        "star": 1,
+        "type": 2,
+        "stage": 10,
+        "result": 4
+    },
+    {
+        "No": 44,
+        "star": 1,
+        "type": 1,
+        "stage": 11,
+        "result": 1
+    },
+    {
+        "No": 45,
+        "star": 1,
+        "type": 1,
+        "stage": 11,
+        "result": 2
+    },
+    {
+        "No": 46,
+        "star": 1,
+        "type": 1,
+        "stage": 11,
+        "result": 3
+    },
+    {
+        "No": 47,
+        "star": 1,
+        "type": 1,
+        "stage": 11,
+        "result": 4
+    },
+    {
+        "No": 48,
+        "star": 1,
+        "type": 2,
+        "stage": 11,
+        "result": 5
+    },
+    {
+        "No": 49,
+        "star": 1,
+        "type": 0,
+        "stage": 11,
+        "result": 6
+    },
+    {
+        "No": 50,
+        "star": 1,
+        "type": 1,
+        "stage": 12,
+        "result": 1
+    },
+    {
+        "No": 51,
+        "star": 1,
+        "type": 1,
+        "stage": 12,
+        "result": 2
+    },
+    {
+        "No": 52,
+        "star": 1,
+        "type": 1,
+        "stage": 12,
+        "result": 3
+    },
+    {
+        "No": 53,
+        "star": 1,
+        "type": 1,
+        "stage": 12,
+        "result": 4
+    },
+    {
+        "No": 54,
+        "star": 1,
+        "type": 2,
+        "stage": 12,
+        "result": 5
+    },
+    {
+        "No": 55,
+        "star": 1,
+        "type": 0,
+        "stage": 12,
+        "result": 6
+    },
+    {
+        "No": 56,
+        "star": 1,
+        "type": 1,
+        "stage": 13,
+        "result": 1
+    },
+    {
+        "No": 57,
+        "star": 1,
+        "type": 1,
+        "stage": 13,
+        "result": 2
+    },
+    {
+        "No": 58,
+        "star": 1,
+        "type": 1,
+        "stage": 13,
+        "result": 3
+    },
+    {
+        "No": 59,
+        "star": 2,
+        "type": 2,
+        "stage": 13,
+        "result": 4
+    },
+    {
+        "No": 60,
+        "star": 1,
+        "type": 1,
+        "stage": 14,
+        "result": 1
+    },
+    {
+        "No": 61,
+        "star": 1,
+        "type": 1,
+        "stage": 14,
+        "result": 2
+    },
+    {
+        "No": 62,
+        "star": 1,
+        "type": 2,
+        "stage": 14,
+        "result": 3
+    },
+    {
+        "No": 63,
+        "star": 1,
+        "type": 1,
+        "stage": 15,
+        "result": 1
+    },
+    {
+        "No": 64,
+        "star": 2,
+        "type": 1,
+        "stage": 15,
+        "result": 2
+    },
+    {
+        "No": 65,
+        "star": 1,
+        "type": 1,
+        "stage": 15,
+        "result": 3
+    },
+    {
+        "No": 66,
+        "star": 1,
+        "type": 1,
+        "stage": 15,
+        "result": 4
+    },
+    {
+        "No": 67,
+        "star": 1,
+        "type": 2,
+        "stage": 15,
+        "result": 5
+    },
+    {
+        "No": 68,
+        "star": 2,
+        "type": 0,
+        "stage": 15,
+        "result": 6
+    },
+    {
+        "No": 69,
+        "star": 1,
+        "type": 1,
+        "stage": 16,
+        "result": 1
+    },
+    {
+        "No": 70,
+        "star": 1,
+        "type": 0,
+        "stage": 16,
+        "result": 2
+    },
+    {
+        "No": 71,
+        "star": 1,
+        "type": 1,
+        "stage": 17,
+        "result": 1
+    },
+    {
+        "No": 72,
+        "star": 1,
+        "type": 1,
+        "stage": 17,
+        "result": 2
+    },
+    {
+        "No": 73,
+        "star": 1,
+        "type": 2,
+        "stage": 17,
+        "result": 3
+    },
+    {
+        "No": 74,
+        "star": 1,
+        "type": 1,
+        "stage": 18,
+        "result": 1
+    },
+    {
+        "No": 75,
+        "star": 1,
+        "type": 1,
+        "stage": 18,
+        "result": 2
+    },
+    {
+        "No": 76,
+        "star": 1,
+        "type": 2,
+        "stage": 18,
+        "result": 3
+    },
+    {
+        "No": 77,
+        "star": 1,
+        "type": 0,
+        "stage": 18,
+        "result": 4
+    },
+    {
+        "No": 78,
+        "star": 1,
+        "type": 1,
+        "stage": 19,
+        "result": 1
+    },
+    {
+        "No": 79,
+        "star": 2,
+        "type": 0,
+        "stage": 19,
+        "result": 2
+    },
+    {
+        "No": 80,
+        "star": 2,
+        "type": 0,
+        "stage": 19,
+        "result": 3
+    },
+    {
+        "No": 81,
+        "star": 2,
+        "type": 0,
+        "stage": 19,
+        "result": 4
+    },
+    {
+        "No": 82,
+        "star": 1,
+        "type": 0,
+        "stage": 19,
+        "result": 5
+    },
+    {
+        "No": 83,
+        "star": 1,
+        "type": 0,
+        "stage": 19,
+        "result": 6
+    },
+    {
+        "No": 84,
+        "star": 1,
+        "type": 2,
+        "stage": 19,
+        "result": 7
+    },
+    {
+        "No": 85,
+        "star": 1,
+        "type": 1,
+        "stage": 20,
+        "result": 1
+    },
+    {
+        "No": 86,
+        "star": 1,
+        "type": 1,
+        "stage": 20,
+        "result": 2
+    },
+    {
+        "No": 87,
+        "star": 1,
+        "type": 2,
+        "stage": 20,
+        "result": 3
+    },
+    {
+        "No": 88,
+        "star": 1,
+        "type": 0,
+        "stage": 20,
+        "result": 4
+    },
+    {
+        "No": 89,
+        "star": 1,
+        "type": 1,
+        "stage": 21,
+        "result": 1
+    },
+    {
+        "No": 90,
+        "star": 1,
+        "type": 1,
+        "stage": 21,
+        "result": 2
+    },
+    {
+        "No": 91,
+        "star": 2,
+        "type": 1,
+        "stage": 21,
+        "result": 3
+    },
+    {
+        "No": 92,
+        "star": 1,
+        "type": 2,
+        "stage": 21,
+        "result": 4
+    },
+    {
+        "No": 93,
+        "star": 1,
+        "type": 1,
+        "stage": 22,
+        "result": 1
+    },
+    {
+        "No": 94,
+        "star": 1,
+        "type": 1,
+        "stage": 22,
+        "result": 2
+    },
+    {
+        "No": 95,
+        "star": 1,
+        "type": 0,
+        "stage": 22,
+        "result": 3
+    },
+    {
+        "No": 96,
+        "star": 1,
+        "type": 2,
+        "stage": 22,
+        "result": 4
+    },
+    {
+        "No": 97,
+        "star": 2,
+        "type": 0,
+        "stage": 22,
+        "result": 5
+    },
+    {
+        "No": 98,
+        "star": 1,
+        "type": 1,
+        "stage": 23,
+        "result": 1
+    },
+    {
+        "No": 99,
+        "star": 3,
+        "type": 1,
+        "stage": 23,
+        "result": 2
+    },
+    {
+        "No": 100,
+        "star": 1,
+        "type": 0,
+        "stage": 23,
+        "result": 3
+    },
+    {
+        "No": 101,
+        "star": 1,
+        "type": 0,
+        "stage": 23,
+        "result": 4
+    },
+    {
+        "No": 102,
+        "star": 1,
+        "type": 0,
+        "stage": 23,
+        "result": 5
+    },
+    {
+        "No": 103,
+        "star": 2,
+        "type": 2,
+        "stage": 23,
+        "result": 6
+    },
+    {
+        "No": 104,
+        "star": 1,
+        "type": 1,
+        "stage": 24,
+        "result": 1
+    },
+    {
+        "No": 105,
+        "star": 1,
+        "type": 1,
+        "stage": 24,
+        "result": 2
+    },
+    {
+        "No": 106,
+        "star": 2,
+        "type": 1,
+        "stage": 24,
+        "result": 3
+    },
+    {
+        "No": 107,
+        "star": 2,
+        "type": 1,
+        "stage": 24,
+        "result": 4
+    },
+    {
+        "No": 108,
+        "star": 2,
+        "type": 1,
+        "stage": 24,
+        "result": 5
+    },
+    {
+        "No": 109,
+        "star": 1,
+        "type": 1,
+        "stage": 24,
+        "result": 6
+    },
+    {
+        "No": 110,
+        "star": 2,
+        "type": 2,
+        "stage": 24,
+        "result": 7
+    },
+    {
+        "No": 111,
+        "star": 1,
+        "type": 0,
+        "stage": 24,
+        "result": 8
+    },
+    {
+        "No": 112,
+        "star": 1,
+        "type": 1,
+        "stage": 25,
+        "result": 1
+    },
+    {
+        "No": 113,
+        "star": 1,
+        "type": 1,
+        "stage": 25,
+        "result": 2
+    },
+    {
+        "No": 114,
+        "star": 1,
+        "type": 0,
+        "stage": 25,
+        "result": 3
+    },
+    {
+        "No": 115,
+        "star": 2,
+        "type": 2,
+        "stage": 25,
+        "result": 4
+    },
+    {
+        "No": 116,
+        "star": 1,
+        "type": 1,
+        "stage": 26,
+        "result": 1
+    },
+    {
+        "No": 117,
+        "star": 3,
+        "type": 1,
+        "stage": 26,
+        "result": 2
+    },
+    {
+        "No": 118,
+        "star": 1,
+        "type": 1,
+        "stage": 26,
+        "result": 3
+    },
+    {
+        "No": 119,
+        "star": 1,
+        "type": 2,
+        "stage": 26,
+        "result": 4
+    },
+    {
+        "No": 120,
+        "star": 1,
+        "type": 1,
+        "stage": 27,
+        "result": 1
+    },
+    {
+        "No": 121,
+        "star": 2,
+        "type": 1,
+        "stage": 27,
+        "result": 2
+    },
+    {
+        "No": 122,
+        "star": 2,
+        "type": 2,
+        "stage": 27,
+        "result": 3
+    },
+    {
+        "No": 123,
+        "star": 1,
+        "type": 1,
+        "stage": 28,
+        "result": 1
+    },
+    {
+        "No": 124,
+        "star": 1,
+        "type": 1,
+        "stage": 28,
+        "result": 2
+    },
+    {
+        "No": 125,
+        "star": 3,
+        "type": 1,
+        "stage": 28,
+        "result": 3
+    },
+    {
+        "No": 126,
+        "star": 1,
+        "type": 1,
+        "stage": 28,
+        "result": 4
+    },
+    {
+        "No": 127,
+        "star": 1,
+        "type": 2,
+        "stage": 28,
+        "result": 5
+    },
+    {
+        "No": 128,
+        "star": 1,
+        "type": 1,
+        "stage": 29,
+        "result": 1
+    },
+    {
+        "No": 129,
+        "star": 1,
+        "type": 1,
+        "stage": 29,
+        "result": 2
+    },
+    {
+        "No": 130,
+        "star": 1,
+        "type": 1,
+        "stage": 29,
+        "result": 3
+    },
+    {
+        "No": 131,
+        "star": 1,
+        "type": 1,
+        "stage": 29,
+        "result": 4
+    },
+    {
+        "No": 132,
+        "star": 1,
+        "type": 1,
+        "stage": 29,
+        "result": 5
+    },
+    {
+        "No": 133,
+        "star": 2,
+        "type": 2,
+        "stage": 29,
+        "result": 6
+    },
+    {
+        "No": 134,
+        "star": 3,
+        "type": 2,
+        "stage": 29,
+        "result": 7
+    },
+    {
+        "No": 135,
+        "star": 2,
+        "type": 0,
+        "stage": 29,
+        "result": 8
+    },
+    {
+        "No": 136,
+        "star": 1,
+        "type": 1,
+        "stage": 30,
+        "result": 1
+    },
+    {
+        "No": 137,
+        "star": 1,
+        "type": 1,
+        "stage": 30,
+        "result": 2
+    },
+    {
+        "No": 138,
+        "star": 2,
+        "type": 1,
+        "stage": 30,
+        "result": 3
+    },
+    {
+        "No": 139,
+        "star": 2,
+        "type": 2,
+        "stage": 30,
+        "result": 4
+    },
+    {
+        "No": 140,
+        "star": 1,
+        "type": 0,
+        "stage": 30,
+        "result": 5
+    },
+    {
+        "No": 141,
+        "star": 1,
+        "type": 0,
+        "stage": 30,
+        "result": 6
+    },
+    {
+        "No": 142,
+        "star": 1,
+        "type": 0,
+        "stage": 30,
+        "result": 7
+    },
+    {
+        "No": 143,
+        "star": 1,
+        "type": 1,
+        "stage": 30,
+        "result": 8
+    }
+]

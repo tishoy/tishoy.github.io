@@ -1,0 +1,63 @@
+{
+	"groups": [
+		{
+			"keys": "stage8_action_png",
+			"name": "stage8_png"
+		},
+		{
+			"keys": "stage8_texture,stage8_action_json",
+			"name": "stage8_json"
+		},
+		{
+			"keys": "5_ZombiMoveSound_mp3,20_ZombiAttackSound_mp3,64_ZombiClearSound_mp3,65_ZombiGameOverSound_mp3,70_ZombiDiggingSound_mp3,127_ZombiDeadSound_mp3",
+			"name": "stage8_mp3"
+		}
+	],
+	"resources": [
+		{
+			"url": "stage8/action.png",
+			"type": "image",
+			"name": "stage8_action_png"
+		},
+		{
+			"url": "stage8/action.json",
+			"type": "json",
+			"name": "stage8_action_json"
+		},
+		{
+			"url": "stage8/texture.json",
+			"type": "sheet",
+			"name": "stage8_texture"
+		},
+		{
+			"url": "stage8/5_ZombiMoveSound.mp3",
+			"type": "sound",
+			"name": "5_ZombiMoveSound_mp3"
+		},
+		{
+			"url": "stage8/20_ZombiAttackSound.mp3",
+			"type": "sound",
+			"name": "20_ZombiAttackSound_mp3"
+		},
+		{
+			"url": "stage8/64_ZombiClearSound.mp3",
+			"type": "sound",
+			"name": "64_ZombiClearSound_mp3"
+		},
+		{
+			"url": "stage8/65_ZombiGameOverSound.mp3",
+			"type": "sound",
+			"name": "65_ZombiGameOverSound_mp3"
+		},
+		{
+			"url": "stage8/70_ZombiDiggingSound.mp3",
+			"type": "sound",
+			"name": "70_ZombiDiggingSound_mp3"
+		},
+		{
+			"url": "stage8/127_ZombiDeadSound.mp3",
+			"type": "sound",
+			"name": "127_ZombiDeadSound_mp3"
+		}
+	]
+}

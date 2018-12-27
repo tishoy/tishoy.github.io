@@ -1,0 +1,78 @@
+{
+	"groups": [
+		{
+			"keys": "stage22_action_png,item_mushroom,item_sweet_potato,item_fired_sweet_potato",
+			"name": "stage22_png"
+		},
+		{
+			"keys": "stage22_texture,stage22_action_json",
+			"name": "stage22_json"
+		},
+		{
+			"keys": "4_JumpSound_mp3,35_PuyonSound_mp3,43_EatSound_mp3,45_OpenSound_mp3,113_Bush2Sound_mp3,79_Hit2Sound_mp3",
+			"name": "stage22_mp3"
+		}
+	],
+	"resources": [
+		{
+			"url": "stage22/item_mushroom.png",
+			"type": "image",
+			"name": "item_mushroom"
+		},
+		{
+			"url": "stage22/item_sweet_potato.png",
+			"type": "image",
+			"name": "item_sweet_potato"
+		},
+		{
+			"url": "stage22/item_fired_sweet_potato.png",
+			"type": "image",
+			"name": "item_fired_sweet_potato"
+		},
+		{
+			"url": "stage22/action.png",
+			"type": "image",
+			"name": "stage22_action_png"
+		},
+		{
+			"url": "stage22/action.json",
+			"type": "json",
+			"name": "stage22_action_json"
+		},
+		{
+			"url": "stage22/texture.json",
+			"type": "sheet",
+			"name": "stage22_texture"
+		},
+		{
+			"url": "stage22/4_JumpSound.mp3",
+			"type": "sound",
+			"name": "4_JumpSound_mp3"
+		},
+		{
+			"url": "stage22/35_PuyonSound.mp3",
+			"type": "sound",
+			"name": "35_PuyonSound_mp3"
+		},
+		{
+			"url": "stage22/43_EatSound.mp3",
+			"type": "sound",
+			"name": "43_EatSound_mp3"
+		},
+		{
+			"url": "stage22/45_OpenSound.mp3",
+			"type": "sound",
+			"name": "45_OpenSound_mp3"
+		},
+		{
+			"url": "stage22/113_Bush2Sound.mp3",
+			"type": "sound",
+			"name": "113_Bush2Sound_mp3"
+		},
+		{
+			"url": "stage22/79_Hit2Sound.mp3",
+			"type": "sound",
+			"name": "79_Hit2Sound_mp3"
+		}
+	]
+}

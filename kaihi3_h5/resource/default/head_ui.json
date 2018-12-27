@@ -1,0 +1,14 @@
+{"file":"head_ui.png","frames":{
+"rank_title":{"x":1,"y":262,"w":420,"h":70,"offX":0,"offY":0,"sourceW":420,"sourceH":70},
+"card_title":{"x":1,"y":334,"w":356,"h":57,"offX":3,"offY":7,"sourceW":363,"sourceH":69},
+"ours":{"x":1,"y":393,"w":238,"h":85,"offX":4,"offY":7,"sourceW":246,"sourceH":97},
+"page":{"x":612,"y":262,"w":144,"h":45,"offX":2,"offY":4,"sourceW":148,"sourceH":53},
+"left":{"x":519,"y":262,"w":91,"h":90,"offX":5,"offY":5,"sourceW":100,"sourceH":100},
+"head":{"x":1,"y":1,"w":880,"h":259,"offX":0,"offY":0,"sourceW":880,"sourceH":265},
+"dialog":{"x":359,"y":334,"w":158,"h":55,"offX":2,"offY":2,"sourceW":162,"sourceH":61},
+"on":{"x":683,"y":393,"w":104,"h":107,"offX":8,"offY":1,"sourceW":120,"sourceH":110},
+"back_btn":{"x":576,"y":393,"w":105,"h":108,"offX":8,"offY":1,"sourceW":120,"sourceH":110},
+"off":{"x":469,"y":393,"w":105,"h":108,"offX":8,"offY":1,"sourceW":120,"sourceH":110},
+"menu":{"x":362,"y":393,"w":105,"h":109,"offX":8,"offY":1,"sourceW":120,"sourceH":110},
+"rank":{"x":789,"y":393,"w":100,"h":107,"offX":10,"offY":1,"sourceW":120,"sourceH":110},
+"data_scene":{"x":241,"y":393,"w":119,"h":108,"offX":0,"offY":1,"sourceW":120,"sourceH":110}}}

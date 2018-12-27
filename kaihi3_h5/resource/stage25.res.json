@@ -1,0 +1,83 @@
+{
+	"groups": [
+		{
+			"keys": "stage25_action_png,item_weeder,item_cup,item_bread",
+			"name": "stage25_png"
+		},
+		{
+			"keys": "stage25_texture,stage25_action_json",
+			"name": "stage25_json"
+		},
+		{
+			"keys": "11_KusaSound_mp3,14_Water8Sound_mp3,18_UfoSound_1_mp3,43_EatSound_mp3,58_KusakarikiSound_mp3,76_CowSound_mp3,92_DogSound_mp3",
+			"name": "stage25_mp3"
+		}
+	],
+	"resources": [
+		{
+			"url": "stage25/item_bread.png",
+			"type": "image",
+			"name": "item_bread"
+		},
+		{
+			"url": "stage25/item_cup.png",
+			"type": "image",
+			"name": "item_cup"
+		},
+		{
+			"url": "stage25/item_weeder.png",
+			"type": "image",
+			"name": "item_weeder"
+		},
+		{
+			"url": "stage25/action.png",
+			"type": "image",
+			"name": "stage25_action_png"
+		},
+		{
+			"url": "stage25/action.json",
+			"type": "json",
+			"name": "stage25_action_json"
+		},
+		{
+			"url": "stage25/texture.json",
+			"type": "sheet",
+			"name": "stage25_texture"
+		},
+		{
+			"url": "stage25/11_KusaSound.mp3",
+			"type": "sound",
+			"name": "11_KusaSound_mp3"
+		},
+		{
+			"url": "stage25/14_Water8Sound.mp3",
+			"type": "sound",
+			"name": "14_Water8Sound_mp3"
+		},
+		{
+			"url": "stage25/18_UfoSound_1.mp3",
+			"type": "sound",
+			"name": "18_UfoSound_1_mp3"
+		},
+		{
+			"url": "stage25/43_EatSound.mp3",
+			"type": "sound",
+			"name": "43_EatSound_mp3"
+		},
+		{
+			"url": "stage25/58_KusakarikiSound.mp3",
+			"type": "sound",
+			"name": "58_KusakarikiSound_mp3"
+		},
+		{
+			"url": "stage25/76_CowSound.mp3",
+			"type": "sound",
+			"name": "76_CowSound_mp3"
+		},
+		{
+			"url": "stage25/92_DogSound.mp3",
+			"type": "sound",
+			"name": "92_DogSound_mp3"
+		}
+	]
+}

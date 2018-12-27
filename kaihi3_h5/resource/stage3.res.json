@@ -1,0 +1,93 @@
+{
+	"groups": [
+		{
+			"keys": "stage3_boy_action_png,stage3_brother_action_png,stage3_fire_effect_png,stage3_result_mc_json",
+			"name": "stage3_png"
+		},
+		{
+			"keys": "stage3_boy_action_json,stage3_brother_action_json,stage3_fire_effect_json,stage3_texture,stage3_result_mc_png",
+			"name": "stage3_json"
+		},
+		{
+			"keys": "40_HitSound_mp3,67_Aura2Sound_mp3,68_AuraSound_mp3,23_SuburiSound_mp3,88_Shine2Sound_mp3,25_BokeSound_mp3",
+			"name": "stage3_mp3"
+		}
+	],
+	"resources": [
+		{
+			"url": "stage3/result_mc.png",
+			"type": "image",
+			"name": "stage3_result_mc_png"
+		},
+		{
+			"url": "stage3/result_mc.json",
+			"type": "json",
+			"name": "stage3_result_mc_json"
+		},
+		{
+			"url": "stage3/boy_action.png",
+			"type": "image",
+			"name": "stage3_boy_action_png"
+		},
+		{
+			"url": "stage3/boy_action.json",
+			"type": "json",
+			"name": "stage3_boy_action_json"
+		},
+		{
+			"url": "stage3/brother_action.png",
+			"type": "image",
+			"name": "stage3_brother_action_png"
+		},
+		{
+			"url": "stage3/brother_action.json",
+			"type": "json",
+			"name": "stage3_brother_action_json"
+		},
+		{
+			"url": "stage3/fire_effect.png",
+			"type": "image",
+			"name": "stage3_fire_effect_png"
+		},
+		{
+			"url": "stage3/fire_effect.json",
+			"type": "json",
+			"name": "stage3_fire_effect_json"
+		},
+		{
+			"url": "stage3/texture.json",
+			"type": "sheet",
+			"name": "stage3_texture"
+		},
+		{
+			"url": "stage3/40_HitSound.mp3",
+			"type": "sound",
+			"name": "40_HitSound_mp3"
+		},
+		{
+			"url": "stage3/67_Aura2Sound.mp3",
+			"type": "sound",
+			"name": "67_Aura2Sound_mp3"
+		},
+		{
+			"url": "stage3/68_AuraSound.mp3",
+			"type": "sound",
+			"name": "68_AuraSound_mp3"
+		},
+		{
+			"url": "stage3/23_SuburiSound.mp3",
+			"type": "sound",
+			"name": "23_SuburiSound_mp3"
+		},
+		{
+			"url": "stage3/88_Shine2Sound.mp3",
+			"type": "sound",
+			"name": "88_Shine2Sound_mp3"
+		},
+		{
+			"url": "stage3/25_BokeSound.mp3",
+			"type": "sound",
+			"name": "25_BokeSound_mp3"
+		}
+	]
+}

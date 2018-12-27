@@ -1,0 +1,5 @@
+{"file":"texture.png","frames":{
+"crown1":{"x":1,"y":161,"w":51,"h":52,"offX":1,"offY":0,"sourceW":52,"sourceH":52},
+"crown2":{"x":54,"y":107,"w":51,"h":52,"offX":1,"offY":0,"sourceW":52,"sourceH":52},
+"crown3":{"x":1,"y":107,"w":51,"h":52,"offX":1,"offY":0,"sourceW":52,"sourceH":52},
+"rank":{"x":1,"y":1,"w":100,"h":104,"offX":0,"offY":0,"sourceW":100,"sourceH":104}}}

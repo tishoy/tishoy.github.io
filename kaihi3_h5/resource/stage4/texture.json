@@ -1,0 +1,9 @@
+{"file":"texture4.png","frames":{
+"house":{"x":883,"y":1,"w":504,"h":486,"offX":3,"offY":5,"sourceW":507,"sourceH":497},
+"pipe0":{"x":1389,"y":394,"w":89,"h":29,"offX":3,"offY":1,"sourceW":94,"sourceH":32},
+"pipe1":{"x":1389,"y":335,"w":162,"h":57,"offX":5,"offY":123,"sourceW":171,"sourceH":187},
+"pipe2":{"x":1389,"y":1,"w":172,"h":154,"offX":3,"offY":2,"sourceW":178,"sourceH":158},
+"pipe3":{"x":1389,"y":157,"w":119,"h":176,"offX":5,"offY":3,"sourceW":171,"sourceH":187},
+"bali":{"x":883,"y":489,"w":880,"h":131,"offX":0,"offY":4,"sourceW":880,"sourceH":140},
+"bg":{"x":1,"y":1,"w":880,"h":1320,"offX":0,"offY":0,"sourceW":880,"sourceH":1320},
+"garden":{"x":1,"y":1323,"w":880,"h":606,"offX":0,"offY":5,"sourceW":880,"sourceH":611}}}

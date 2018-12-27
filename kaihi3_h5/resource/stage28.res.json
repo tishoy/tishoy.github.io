@@ -1,0 +1,73 @@
+{
+	"groups": [
+		{
+			"keys": "stage28_action_png,item_cat_ture,item_berry_bottle,item_berry,circle_png,square_png",
+			"name": "stage28_png"
+		},
+		{
+			"keys": "stage28_texture,stage28_action_json",
+			"name": "stage28_json"
+		},
+		{
+			"keys": "48_KorogariSound_mp3,46_Korogari2Sound_mp3,94_HorrorSound_mp3",
+			"name": "stage28_mp3"
+		}
+	],
+	"resources": [
+		{
+			"url":"stage28/circle.png",
+			"type":"image",
+			"name":"circle_png"
+		},
+		{
+			"url":"stage28/square.png",
+			"type":"image",
+			"name":"square_png"
+		},
+		{
+			"url": "stage28/item_berry.png",
+			"type": "image",
+			"name": "item_berry"
+		},
+		{
+			"url": "stage28/item_berry_bottle.png",
+			"type": "image",
+			"name": "item_berry_bottle"
+		},
+		{
+			"url": "stage28/item_cat_ture.png",
+			"type": "image",
+			"name": "item_cat_ture"
+		},
+		{
+			"url": "stage28/action.png",
+			"type": "image",
+			"name": "stage28_action_png"
+		},
+		{
+			"url": "stage28/action.json",
+			"type": "json",
+			"name": "stage28_action_json"
+		},
+		{
+			"url": "stage28/texture.json",
+			"type": "sheet",
+			"name": "stage28_texture"
+		},
+		{
+			"url": "stage28/48_KorogariSound.mp3",
+			"type": "sound",
+			"name": "48_KorogariSound_mp3"
+		},
+		{
+			"url": "stage28/46_Korogari2Sound.mp3",
+			"type": "sound",
+			"name": "46_Korogari2Sound_mp3"
+		},
+		{
+			"url": "stage28/94_HorrorSound.mp3",
+			"type": "sound",
+			"name": "94_HorrorSound_mp3"
+		}
+	]
+}

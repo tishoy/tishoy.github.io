@@ -1,0 +1,17 @@
+{"file":"texture.png","frames":{
+"green":{"x":344,"y":2568,"w":74,"h":66,"offX":3,"offY":8,"sourceW":80,"sourceH":80},
+"ground":{"x":1,"y":1323,"w":2160,"h":791,"offX":0,"offY":7,"sourceW":2160,"sourceH":798},
+"lpop":{"x":1,"y":3257,"w":20,"h":16,"offX":2,"offY":3,"sourceW":24,"sourceH":22},
+"ott":{"x":1,"y":3117,"w":57,"h":68,"offX":3,"offY":3,"sourceW":61,"sourceH":72},
+"red":{"x":170,"y":2936,"w":75,"h":76,"offX":1,"offY":2,"sourceW":80,"sourceH":80},
+"ring":{"x":1,"y":3222,"w":30,"h":33,"offX":1,"offY":1,"sourceW":33,"sourceH":36},
+"sand":{"x":1,"y":2659,"w":378,"h":166,"offX":2,"offY":2,"sourceW":382,"sourceH":171},
+"tree":{"x":1,"y":2195,"w":341,"h":462,"offX":1,"offY":3,"sourceW":345,"sourceH":466},
+"wall":{"x":1,"y":2116,"w":2160,"h":77,"offX":0,"offY":3,"sourceW":2160,"sourceH":80},
+"bananaplace":{"x":344,"y":2636,"w":36,"h":14,"offX":0,"offY":0,"sourceW":36,"sourceH":14},
+"bananaskin":{"x":1,"y":3187,"w":43,"h":33,"offX":3,"offY":4,"sourceW":50,"sourceH":41},
+"bg":{"x":1,"y":1,"w":2160,"h":1320,"offX":0,"offY":0,"sourceW":2160,"sourceH":1320},
+"bpop":{"x":170,"y":2827,"w":138,"h":107,"offX":2,"offY":1,"sourceW":141,"sourceH":109},
+"chair":{"x":1,"y":2827,"w":167,"h":195,"offX":2,"offY":4,"sourceW":170,"sourceH":201},
+"clock":{"x":344,"y":2195,"w":92,"h":371,"offX":3,"offY":5,"sourceW":100,"sourceH":379},
+"grass":{"x":1,"y":3024,"w":198,"h":91,"offX":2,"offY":2,"sourceW":201,"sourceH":95}}}

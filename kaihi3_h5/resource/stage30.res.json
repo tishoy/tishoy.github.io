@@ -1,0 +1,93 @@
+{
+	"groups": [
+		{
+			"keys": "stage30_action_png,stage30_ball_action_png,item_banana_skin,item_jungle_bell,item_little_ming,item_banana,item_brother",
+			"name": "stage30_png"
+		},
+		{
+			"keys": "stage30_texture,stage30_action_json,stage30_ball_action_json",
+			"name": "stage30_json"
+		},
+		{
+			"keys": "4_JumpSound_mp3,43_EatSound_mp3,71_KarasuSound_mp3,121_Bell3Sound_mp3,122_Bell2Sound_mp3",
+			"name": "stage30_mp3"
+		}
+	],
+	"resources": [
+		{
+			"url": "stage30/item_brother.png",
+			"type": "image",
+			"name": "item_brother"
+		},
+		{
+			"url": "stage30/item_banana.png",
+			"type": "image",
+			"name": "item_banana"
+		},
+		{
+			"url": "stage30/item_little_ming.png",
+			"type": "image",
+			"name": "item_little_ming"
+		},
+		{
+			"url": "stage30/item_jungle_bell.png",
+			"type": "image",
+			"name": "item_jungle_bell"
+		},
+		{
+			"url": "stage30/item_banana_skin.png",
+			"type": "image",
+			"name": "item_banana_skin"
+		},
+		{
+			"url": "stage30/action.png",
+			"type": "image",
+			"name": "stage30_action_png"
+		},
+		{
+			"url": "stage30/action.json",
+			"type": "json",
+			"name": "stage30_action_json"
+		},
+		{
+			"url": "stage30/ball_action.png",
+			"type": "image",
+			"name": "stage30_ball_action_png"
+		},
+		{
+			"url": "stage30/ball_action.json",
+			"type": "json",
+			"name": "stage30_ball_action_json"
+		},
+		{
+			"url": "stage30/texture.json",
+			"type": "sheet",
+			"name": "stage30_texture"
+		},
+		{
+			"url": "stage30/4_JumpSound.mp3",
+			"type": "sound",
+			"name": "4_JumpSound_mp3"
+		},
+		{
+			"url": "stage30/43_EatSound.mp3",
+			"type": "sound",
+			"name": "43_EatSound_mp3"
+		},
+		{
+			"url": "stage30/71_KarasuSound.mp3",
+			"type": "sound",
+			"name": "71_KarasuSound_mp3"
+		},
+		{
+			"url": "stage30/121_Bell3Sound.mp3",
+			"type": "sound",
+			"name": "121_Bell3Sound_mp3"
+		},
+		{
+			"url": "stage30/122_Bell2Sound.mp3",
+			"type": "sound",
+			"name": "122_Bell2Sound_mp3"
+		}
+	]
+}

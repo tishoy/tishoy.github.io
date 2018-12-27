@@ -1,0 +1,63 @@
+{
+	"groups": [
+		{
+			"keys": "stage13_action_png",
+			"name": "stage13_png"
+		},
+		{
+			"keys": "stage13_texture,stage13_action_json",
+			"name": "stage13_json"
+		},
+		{
+			"keys": "4_JumpSound_mp3,55_UmaStepSound_mp3,56_UmaVoiceSound_mp3,63_TosshinSound_mp3,78_KickSound_mp3,114_BushSound_mp3",
+			"name": "stage13_mp3"
+		}
+	],
+	"resources": [
+		{
+			"url": "stage13/action.png",
+			"type": "image",
+			"name": "stage13_action_png"
+		},
+		{
+			"url": "stage13/action.json",
+			"type": "json",
+			"name": "stage13_action_json"
+		},
+		{
+			"url": "stage13/texture.json",
+			"type": "sheet",
+			"name": "stage13_texture"
+		},
+		{
+			"url": "stage13/4_JumpSound.mp3",
+			"type": "sound",
+			"name": "4_JumpSound_mp3"
+		},
+		{
+			"url": "stage13/55_UmaStepSound.mp3",
+			"type": "sound",
+			"name": "55_UmaStepSound_mp3"
+		},
+		{
+			"url": "stage13/56_UmaVoiceSound.mp3",
+			"type": "sound",
+			"name": "56_UmaVoiceSound_mp3"
+		},
+		{
+			"url": "stage13/63_TosshinSound.mp3",
+			"type": "sound",
+			"name": "63_TosshinSound_mp3"
+		},
+		{
+			"url": "stage13/78_KickSound.mp3",
+			"type": "sound",
+			"name": "78_KickSound_mp3"
+		},
+		{
+			"url": "stage13/114_BushSound.mp3",
+			"type": "sound",
+			"name": "114_BushSound_mp3"
+		}
+	]
+}

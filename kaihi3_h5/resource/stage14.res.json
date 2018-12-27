@@ -1,0 +1,88 @@
+{
+	"groups": [
+		{
+			"keys": "stage14_action_png,item_dametire,item_tire,item_screwdriver,item_hood",
+			"name": "stage14_png"
+		},
+		{
+			"keys": "stage14_texture,stage14_action_json",
+			"name": "stage14_json"
+		},
+		{
+			"keys": "8_ShineSound_mp3,44_Open2Sound_mp3,62_MetalSound_mp3,73_Metal6Sound_mp3,86_CarStartSound_1_mp3,87_CarPassSound_1_mp3",
+			"name": "stage14_mp3"
+		}
+	],
+	"resources": [
+		{
+			"url": "stage14/item_dametire.png",
+			"type": "image",
+			"name": "item_dametire"
+		},
+		{
+			"url": "stage14/item_tire.png",
+			"type": "image",
+			"name": "item_tire"
+		},
+		{
+			"url": "stage14/item_screwdriver.png",
+			"type": "image",
+			"name": "item_screwdriver"
+		},
+		{
+			"url": "stage14/item_hood.png",
+			"type": "image",
+			"name": "item_hood"
+		},
+		{
+			"url": "stage14/action.png",
+			"type": "image",
+			"name": "stage14_action_png"
+		},
+		{
+			"url": "stage14/action.json",
+			"type": "json",
+			"name": "stage14_action_json"
+		},
+		{
+			"url": "stage14/texture.json",
+			"type": "sheet",
+			"name": "stage14_texture"
+		},
+		{
+			"url": "stage14/44_Open2Sound.mp3",
+			"type": "sound",
+			"name": "44_Open2Sound_mp3"
+		},
+		{
+			"url": "stage14/8_ShineSound.mp3",
+			"type": "sound",
+			"name": "8_ShineSound_mp3"
+		},
+		{
+			"url": "stage14/62_MetalSound.mp3",
+			"type": "sound",
+			"name": "62_MetalSound_mp3"
+		},
+		{
+			"url": "stage14/73_Metal6Sound.mp3",
+			"type": "sound",
+			"name": "73_Metal6Sound_mp3"
+		},
+		{
+			"url": "stage14/86_CarStartSound_1.mp3",
+			"type": "sound",
+			"name": "86_CarStartSound_1_mp3"
+		},
+		{
+			"url": "stage14/87_CarPassSound_1.mp3",
+			"type": "sound",
+			"name": "87_CarPassSound_1_mp3"
+		},
+		{
+			"url": "stage14/44_Open2Sound.mp3",
+			"type": "sound",
+			"name": "44_Open2Sound_mp3"
+		}
+	]
+}

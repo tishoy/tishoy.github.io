@@ -1,0 +1,11 @@
+{"file":"texture7.png","frames":{
+"umbrella_stand":{"x":1113,"y":1147,"w":68,"h":106,"offX":2,"offY":3,"sourceW":72,"sourceH":111},
+"bg":{"x":1,"y":1,"w":880,"h":1320,"offX":0,"offY":0,"sourceW":880,"sourceH":1320},
+"cloud1":{"x":883,"y":1052,"w":182,"h":93,"offX":7,"offY":2,"sourceW":195,"sourceH":99},
+"cloud2":{"x":883,"y":1147,"w":177,"h":93,"offX":3,"offY":3,"sourceW":183,"sourceH":98},
+"cloud3":{"x":1,"y":1323,"w":1516,"h":257,"offX":12,"offY":20,"sourceW":1545,"sourceH":298},
+"door":{"x":1710,"y":1052,"w":188,"h":290,"offX":4,"offY":4,"sourceW":195,"sourceH":298},
+"rainbow":{"x":1,"y":1582,"w":534,"h":298,"offX":5,"offY":14,"sourceW":542,"sourceH":316},
+"room":{"x":1519,"y":1052,"w":189,"h":291,"offX":2,"offY":2,"sourceW":193,"sourceH":295},
+"street":{"x":883,"y":1,"w":880,"h":1049,"offX":0,"offY":6,"sourceW":880,"sourceH":1055},
+"umbrella":{"x":1062,"y":1147,"w":49,"h":171,"offX":1,"offY":2,"sourceW":52,"sourceH":176}}}

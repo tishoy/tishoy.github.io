@@ -1,0 +1,58 @@
+{
+	"groups": [
+		{
+			"keys": "stage7_action_png,item_umbrella",
+			"name": "stage7_png"
+		},
+		{
+			"keys": "stage7_texture,stage7_action_json",
+			"name": "stage7_json"
+		},
+		{
+			"keys": "125_AutoDoorSound_mp3,10_WindSound_1_mp3,8_ShineSound_mp3,3_UmbrellaSound_mp3",
+			"name": "stage7_mp3"
+		}
+	],
+	"resources": [
+		{
+			"url": "stage7/item_umbrella.png",
+			"type": "image",
+			"name": "item_umbrella"
+		},
+		{
+			"url": "stage7/action.png",
+			"type": "image",
+			"name": "stage7_action_png"
+		},
+		{
+			"url": "stage7/action.json",
+			"type": "json",
+			"name": "stage7_action_json"
+		},
+		{
+			"url": "stage7/texture.json",
+			"type": "sheet",
+			"name": "stage7_texture"
+		},
+		{
+			"url": "stage7/125_AutoDoorSound.mp3",
+			"type": "sound",
+			"name": "125_AutoDoorSound_mp3"
+		},
+		{
+			"url": "stage7/10_WindSound_1.mp3",
+			"type": "sound",
+			"name": "10_WindSound_1_mp3"
+		},
+		{
+			"url": "stage7/8_ShineSound.mp3",
+			"type": "sound",
+			"name": "8_ShineSound_mp3"
+		},
+		{
+			"url": "stage7/3_UmbrellaSound.mp3",
+			"type": "sound",
+			"name": "3_UmbrellaSound_mp3"
+		}
+	]
+}

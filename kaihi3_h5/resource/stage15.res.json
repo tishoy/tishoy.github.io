@@ -1,0 +1,73 @@
+{
+	"groups": [
+		{
+			"keys": "stage15_action_png,item_reaver,item_gold_reaver,item_banana_skin",
+			"name": "stage15_png"
+		},
+		{
+			"keys": "stage15_texture,stage15_action_json",
+			"name": "stage15_json"
+		},
+		{
+			"keys": "25_BokeSound_mp3,74_KuwagataSound_mp3,78_KickSound_mp3,83_FusumaOpenSound_mp3,105_ChairSound_mp3",
+			"name": "stage15_mp3"
+		}
+	],
+	"resources": [
+		{
+			"url": "stage15/item_gold_reaver.png",
+			"type": "image",
+			"name": "item_gold_reaver"
+		},
+		{
+			"url": "stage15/item_reaver.png",
+			"type": "image",
+			"name": "item_reaver"
+		},
+		{
+			"url": "stage15/item_banana_skin.png",
+			"type": "image",
+			"name": "item_banana_skin"
+		},
+		{
+			"url": "stage15/action.png",
+			"type": "image",
+			"name": "stage15_action_png"
+		},
+		{
+			"url": "stage15/action.json",
+			"type": "json",
+			"name": "stage15_action_json"
+		},
+		{
+			"url": "stage15/texture.json",
+			"type": "sheet",
+			"name": "stage15_texture"
+		},
+		{
+			"url": "stage15/25_BokeSound.mp3",
+			"type": "sound",
+			"name": "25_BokeSound_mp3"
+		},
+		{
+			"url": "stage15/74_KuwagataSound.mp3",
+			"type": "sound",
+			"name": "74_KuwagataSound_mp3"
+		},
+		{
+			"url": "stage15/78_KickSound.mp3",
+			"type": "sound",
+			"name": "78_KickSound_mp3"
+		},
+		{
+			"url": "stage15/83_FusumaOpenSound.mp3",
+			"type": "sound",
+			"name": "83_FusumaOpenSound_mp3"
+		},
+		{
+			"url": "stage15/105_ChairSound.mp3",
+			"type": "sound",
+			"name": "105_ChairSound_mp3"
+		}
+	]
+}

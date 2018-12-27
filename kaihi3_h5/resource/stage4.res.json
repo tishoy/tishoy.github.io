@@ -1,0 +1,124 @@
+{
+	"groups": [
+		{
+			"keys": "stage4_asagao_action_png,stage4_boy_action_png,stage4_in_water_png,stage4_othermc_png,stage4_snake_png,stage4_hut_fly_png",
+			"name": "stage4_png"
+		},
+		{
+			"keys": "stage4_texture,stage4_asagao_action_json,stage4_boy_action_json,stage4_in_water_json,stage4_othermc_json,stage4_snake_json,stage4_hut_fly_json",
+			"name": "stage4_json"
+		},
+		{
+			"keys": "8_ShineSound_mp3,17_ValveSound_mp3,15_Water4Sound_mp3,12_Water5Sound_mp3,21_Water7Sound_mp3,27_Water6Sound_mp3,35_PuyonSound_mp3,123_AseriSound_mp3",
+			"name": "stage4_mp3"
+		}
+	],
+	"resources": [
+		{
+			"url": "stage4/asagao_action.png",
+			"type": "image",
+			"name": "stage4_asagao_action_png"
+		},
+		{
+			"url": "stage4/asagao_action.json",
+			"type": "json",
+			"name": "stage4_asagao_action_json"
+		},
+		{
+			"url": "stage4/boy_action.png",
+			"type": "image",
+			"name": "stage4_boy_action_png"
+		},
+		{
+			"url": "stage4/boy_action.json",
+			"type": "json",
+			"name": "stage4_boy_action_json"
+		},
+		{
+			"url": "stage4/in_water.png",
+			"type": "image",
+			"name": "stage4_in_water_png"
+		},
+		{
+			"url": "stage4/in_water.json",
+			"type": "json",
+			"name": "stage4_in_water_json"
+		},
+		{
+			"url": "stage4/othermc.png",
+			"type": "image",
+			"name": "stage4_othermc_png"
+		},
+		{
+			"url": "stage4/othermc.json",
+			"type": "json",
+			"name": "stage4_othermc_json"
+		},
+		{
+			"url": "stage4/snake.png",
+			"type": "image",
+			"name": "stage4_snake_png"
+		},
+		{
+			"url": "stage4/snake.json",
+			"type": "json",
+			"name": "stage4_snake_json"
+		},
+		{
+			"url": "stage4/texture.json",
+			"type": "sheet",
+			"name": "stage4_texture"
+		},
+		{
+			"url": "stage4/hut_fly.png",
+			"type": "image",
+			"name": "stage4_hut_fly_png"
+		},
+		{
+			"url": "stage4/hut_fly.json",
+			"type": "json",
+			"name": "stage4_hut_fly_json"
+		},
+		{
+			"url": "stage4/8_ShineSound.mp3",
+			"type": "sound",
+			"name": "8_ShineSound_mp3"
+		},
+		{
+			"url": "stage4/17_ValveSound.mp3",
+			"type": "sound",
+			"name": "17_ValveSound_mp3"
+		},
+		{
+			"url": "stage4/12_Water5Sound.mp3",
+			"type": "sound",
+			"name": "12_Water5Sound_mp3"
+		},
+		{
+			"url": "stage4/15_Water4Sound.mp3",
+			"type": "sound",
+			"name": "15_Water4Sound_mp3"
+		},
+		{
+			"url": "stage4/21_Water7Sound.mp3",
+			"type": "sound",
+			"name": "21_Water7Sound_mp3"
+		},
+		{
+			"url": "stage4/27_Water6Sound.mp3",
+			"type": "sound",
+			"name": "27_Water6Sound_mp3"
+		},
+		{
+			"url": "stage4/35_PuyonSound.mp3",
+			"type": "sound",
+			"name": "35_PuyonSound_mp3"
+		},
+		{
+			"url": "stage4/123_AseriSound.mp3",
+			"type": "sound",
+			"name": "123_AseriSound_mp3"
+		}
+
+	]
+}

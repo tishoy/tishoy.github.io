@@ -1,0 +1,88 @@
+{
+	"groups": [
+		{
+			"keys": "stage20_action_png,item_blue_book,item_red_book,item_grey_book,item_hair_grow_water,item_clipper,item_scissors",
+			"name": "stage20_png"
+		},
+		{
+			"keys": "stage20_texture,stage20_action_json",
+			"name": "stage20_json"
+		},
+		{
+			"keys": "8_ShineSound_mp3,11_KusaSound_mp3,14_Water8Sound_mp3,37_Metal2Sound_mp3,103_DryerSound_mp3",
+			"name": "stage20_mp3"
+		}
+	],
+	"resources": [
+		{
+			"url": "stage20/item_clipper.png",
+			"type": "image",
+			"name": "item_clipper"
+		},
+		{
+			"url": "stage20/item_scissors.png",
+			"type": "image",
+			"name": "item_scissors"
+		},
+		{
+			"url": "stage20/item_blue_book.png",
+			"type": "image",
+			"name": "item_blue_book"
+		},
+		{
+			"url": "stage20/item_red_book.png",
+			"type": "image",
+			"name": "item_red_book"
+		},
+		{
+			"url": "stage20/item_grey_book.png",
+			"type": "image",
+			"name": "item_grey_book"
+		},
+		{
+			"url": "stage20/item_hair_grow_water.png",
+			"type": "image",
+			"name": "item_hair_grow_water"
+		},
+		{
+			"url": "stage20/action.png",
+			"type": "image",
+			"name": "stage20_action_png"
+		},
+		{
+			"url": "stage20/action.json",
+			"type": "json",
+			"name": "stage20_action_json"
+		},
+		{
+			"url": "stage20/texture.json",
+			"type": "sheet",
+			"name": "stage20_texture"
+		},
+		{
+			"url": "stage20/8_ShineSound.mp3",
+			"type": "sound",
+			"name": "8_ShineSound_mp3"
+		},
+		{
+			"url": "stage20/11_KusaSound.mp3",
+			"type": "sound",
+			"name": "11_KusaSound_mp3"
+		},
+		{
+			"url": "stage20/14_Water8Sound.mp3",
+			"type": "sound",
+			"name": "14_Water8Sound_mp3"
+		},
+		{
+			"url": "stage20/37_Metal2Sound.mp3",
+			"type": "sound",
+			"name": "37_Metal2Sound_mp3"
+		},
+		{
+			"url": "stage20/103_DryerSound.mp3",
+			"type": "sound",
+			"name": "103_DryerSound_mp3"
+		}
+	]
+}
