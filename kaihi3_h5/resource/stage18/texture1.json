@@ -1,0 +1,13 @@
+{"file":"texture1.png","frames":{
+"chair":{"x":0,"y":1855,"w":120,"h":150,"offX":2,"offY":2,"sourceW":124,"sourceH":154},
+"chairs":{"x":1520,"y":0,"w":161,"h":254,"offX":5,"offY":5,"sourceW":169,"sourceH":261},
+"g":{"x":0,"y":2005,"w":39,"h":40,"offX":0,"offY":0,"sourceW":39,"sourceH":40},
+"good":{"x":858,"y":987,"w":39,"h":40,"offX":0,"offY":0,"sourceW":39,"sourceH":40},
+"green":{"x":575,"y":1105,"w":47,"h":44,"offX":1,"offY":2,"sourceW":48,"sourceH":48},
+"ground":{"x":0,"y":0,"w":1520,"h":987,"offX":0,"offY":3,"sourceW":1520,"sourceH":990},
+"mashine":{"x":575,"y":987,"w":283,"h":118,"offX":2,"offY":1,"sourceW":288,"sourceH":121},
+"mashinehead":{"x":1681,"y":0,"w":64,"h":76,"offX":2,"offY":3,"sourceW":69,"sourceH":81},
+"road":{"x":0,"y":987,"w":575,"h":556,"offX":6,"offY":3,"sourceW":587,"sourceH":566},
+"score":{"x":1520,"y":254,"w":138,"h":50,"offX":1,"offY":2,"sourceW":139,"sourceH":53},
+"wall":{"x":0,"y":1543,"w":1520,"h":200,"offX":0,"offY":0,"sourceW":1520,"sourceH":204},
+"ad":{"x":0,"y":1743,"w":1520,"h":112,"offX":0,"offY":3,"sourceW":1520,"sourceH":118}}}

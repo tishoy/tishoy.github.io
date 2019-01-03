@@ -55,7 +55,7 @@
 			"name": "stage3_fire_effect_json"
 		},
 		{
-			"url": "stage3/texture.json",
+			"url": "stage3/texture1.json",
 			"type": "sheet",
 			"name": "stage3_texture1"
 		},
