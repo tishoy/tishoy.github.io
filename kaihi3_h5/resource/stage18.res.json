@@ -55,7 +55,7 @@
 			"name": "stage18_action2_json"
 		},
 		{
-			"url": "stage18/texture.json",
+			"url": "stage18/texture1.json",
 			"type": "sheet",
 			"name": "stage18_texture1"
 		},
