@@ -1,11 +1,11 @@
 {
 	"groups": [
 		{
-			"keys": "stage3_boy_action_png,stage3_brother_action_png,stage3_fire_effect_png,stage3_result_mc_json",
+			"keys": "stage3_boy_action_png,stage3_brother_action_png,stage3_fire_effect_png,stage3_result_mc_png",
 			"name": "stage3_png"
 		},
 		{
-			"keys": "stage3_boy_action_json,stage3_brother_action_json,stage3_fire_effect_json,stage3_texture1,stage3_result_mc_png",
+			"keys": "stage3_boy_action_json,stage3_brother_action_json,stage3_fire_effect_json,stage3_texture1,stage3_result_mc_json,stage3_bg_json",
 			"name": "stage3_json"
 		},
 		{
@@ -14,6 +14,11 @@
 		}
 	],
 	"resources": [
+		{
+			"url": "stage3/bg.json",
+			"type": "sheet",
+			"name": "stage3_bg_json"
+		},
 		{
 			"url": "stage3/result_mc.png",
 			"type": "image",
