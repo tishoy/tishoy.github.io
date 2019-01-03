@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "stage6_horse_action_png,stage6_horse_action1_png,stage6_horse_action2_png,stage6_toy_action_png,item_flower,item_berry,item_flower_ring",
+			"keys": "stage6_horse_action1_png,stage6_horse_action2_png,stage6_toy_action_png,item_flower,item_berry,item_flower_ring",
 			"name": "stage6_png"
 		},
 		{

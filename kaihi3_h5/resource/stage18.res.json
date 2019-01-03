@@ -1,11 +1,11 @@
 {
 	"groups": [
 		{
-			"keys": "stage18_action1_png,stage18_action2_png,item_red_ball,item_blue_ball,item_robot_ball",
+			"keys": "stage18_bg_png,stage18_action1_png,stage18_action2_png,item_red_ball,item_blue_ball,item_robot_ball",
 			"name": "stage18_png"
 		},
 		{
-			"keys": "stage18_texture,stage18_action1_json,stage18_action2_json",
+			"keys": "stage18_texture1,stage18_action1_json,stage18_action2_json",
 			"name": "stage18_json"
 		},
 		{
@@ -14,6 +14,11 @@
 		}
 	],
 	"resources": [
+		{
+			"url": "stage18/bg.png",
+			"type": "image",
+			"name": "stage18_bg_png"
+		},
 		{
 			"url": "stage18/item_red_ball.png",
 			"type": "image",
@@ -52,7 +57,7 @@
 		{
 			"url": "stage18/texture.json",
 			"type": "sheet",
-			"name": "stage18_texture"
+			"name": "stage18_texture1"
 		},
 		{
 			"url": "stage18/115_WareSound.mp3",

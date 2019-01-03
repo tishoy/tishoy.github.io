@@ -1,11 +1,11 @@
 {
 	"groups": [
 		{
-			"keys": "stage21_action_png,item_seed,item_box,item_full_box,item_ice_box",
+			"keys": "stage21_action_png,item_seed,item_box,item_full_box,item_ice_box,stage21_bg_png,stage21_wall_png",
 			"name": "stage21_png"
 		},
 		{
-			"keys": "stage21_texture,stage21_action_json",
+			"keys": "stage21_texture1,stage21_action_json",
 			"name": "stage21_json"
 		},
 		{
@@ -35,6 +35,16 @@
 			"name": "item_ice_box"
 		},
 		{
+			"url": "stage21/bg.png",
+			"type": "image",
+			"name": "stage21_bg_png"
+		},
+		{
+			"url": "stage21/wall.png",
+			"type": "image",
+			"name": "stage21_wall_png"
+		},
+		{
 			"url": "stage21/action.png",
 			"type": "image",
 			"name": "stage21_action_png"
@@ -45,9 +55,9 @@
 			"name": "stage21_action_json"
 		},
 		{
-			"url": "stage21/texture.json",
+			"url": "stage21/texture1.json",
 			"type": "sheet",
-			"name": "stage21_texture"
+			"name": "stage21_texture1"
 		},
 		{
 			"url": "stage21/16_HatodokeiSound.mp3",

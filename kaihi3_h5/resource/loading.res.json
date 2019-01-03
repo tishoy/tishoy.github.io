@@ -1,0 +1,35 @@
+{
+    "groups": [
+        {
+			"keys": "loading_bg_png,loading_boy_png,loading_boy_json,loading_word_png,loading_word_json",
+			"name": "loading_ui"
+		}
+    ],
+    "resources": [
+        {
+			"url": "loading/bg.png",
+			"type": "image",
+			"name": "loading_bg_png"
+		},
+		{
+			"url": "loading/loadingboy.png",
+			"type": "image",
+			"name": "loading_boy_png"
+		},
+		{
+			"url": "loading/loadingboy.json",
+			"type": "json",
+			"name": "loading_boy_json"
+		},
+		{
+			"url": "loading/loadingword.png",
+			"type": "image",
+			"name": "loading_word_png"
+		},
+		{
+			"url": "loading/loadingword.json",
+			"type": "json",
+			"name": "loading_word_json"
+		}
+    ]
+}

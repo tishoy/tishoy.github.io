@@ -5,7 +5,7 @@
 			"name": "stage3_png"
 		},
 		{
-			"keys": "stage3_boy_action_json,stage3_brother_action_json,stage3_fire_effect_json,stage3_texture,stage3_result_mc_png",
+			"keys": "stage3_boy_action_json,stage3_brother_action_json,stage3_fire_effect_json,stage3_texture1,stage3_result_mc_png",
 			"name": "stage3_json"
 		},
 		{
@@ -57,7 +57,7 @@
 		{
 			"url": "stage3/texture.json",
 			"type": "sheet",
-			"name": "stage3_texture"
+			"name": "stage3_texture1"
 		},
 		{
 			"url": "stage3/40_HitSound.mp3",
