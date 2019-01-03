@@ -1,11 +1,11 @@
 {
 	"groups": [
 		{
-			"keys": "stage9_action_png,item_tako,item_ukiwa,item_kani,item_mizugumo",
+			"keys": "stage9_action1_png,stage9_clear_action_png,item_tako,item_ukiwa,item_kani,item_mizugumo",
 			"name": "stage9_png"
 		},
 		{
-			"keys": "stage9_texture,stage9_action_json",
+			"keys": "stage9_texture,stage9_action1_json,stage9_clear_action_json",
 			"name": "stage9_json"
 		},
 		{
@@ -35,14 +35,24 @@
 			"name": "item_ukiwa"
 		},
 		{
-			"url": "stage9/action.png",
+			"url": "stage9/action1.png",
 			"type": "image",
-			"name": "stage9_action_png"
+			"name": "stage9_action1_png"
 		},
 		{
-			"url": "stage9/action.json",
+			"url": "stage9/action1.json",
 			"type": "json",
-			"name": "stage9_action_json"
+			"name": "stage9_action1_json"
+		},
+		{
+			"url": "stage9/clear_action.json",
+			"type": "json",
+			"name": "stage9_clear_action_json"
+		},
+		{
+			"url": "stage9/clear_action.png",
+			"type": "image",
+			"name": "stage9_clear_action_png"
 		},
 		{
 			"url": "stage9/texture.json",

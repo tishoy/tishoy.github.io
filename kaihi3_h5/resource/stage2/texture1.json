@@ -1,0 +1,8 @@
+{"file":"texture1.png","frames":{
+"arena":{"x":1,"y":1323,"w":880,"h":557,"offX":0,"offY":6,"sourceW":880,"sourceH":563},
+"fight":{"x":1,"y":1882,"w":185,"h":85,"offX":4,"offY":2,"sourceW":191,"sourceH":90},
+"light":{"x":883,"y":621,"w":880,"h":328,"offX":0,"offY":8,"sourceW":880,"sourceH":386},
+"light_mid":{"x":883,"y":951,"w":301,"h":686,"offX":12,"offY":0,"sourceW":328,"sourceH":686},
+"light_right":{"x":883,"y":1,"w":481,"h":618,"offX":32,"offY":0,"sourceW":524,"sourceH":673},
+"line":{"x":883,"y":1639,"w":880,"h":191,"offX":0,"offY":6,"sourceW":880,"sourceH":199},
+"bg":{"x":1,"y":1,"w":880,"h":1320,"offX":0,"offY":0,"sourceW":880,"sourceH":1320}}}

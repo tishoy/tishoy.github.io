@@ -1,11 +1,11 @@
 {
 	"groups": [
 		{
-			"keys": "stage6_horse_action_png,stage6_toy_action_png,item_flower,item_berry,item_flower_ring",
+			"keys": "stage6_horse_action_png,stage6_horse_action1_png,stage6_horse_action2_png,stage6_toy_action_png,item_flower,item_berry,item_flower_ring",
 			"name": "stage6_png"
 		},
 		{
-			"keys": "stage6_texture,stage6_horse_action_json,stage6_toy_action_json",
+			"keys": "stage6_texture,stage6_horse_action1_json,stage6_horse_action2_json,stage6_toy_action_json",
 			"name": "stage6_json"
 		},
 		{
@@ -19,7 +19,6 @@
 			"type": "image",
 			"name": "item_flower"
 		},
-
 		{
 			"url": "stage6/item_berry.png",
 			"type": "image",
@@ -36,9 +35,24 @@
 			"name": "stage6_horse_action_png"
 		},
 		{
-			"url": "stage6/horse_action.json",
+			"url": "stage6/horse_action1.json",
 			"type": "json",
-			"name": "stage6_horse_action_json"
+			"name": "stage6_horse_action1_json"
+		},
+		{
+			"url": "stage6/horse_action2.json",
+			"type": "json",
+			"name": "stage6_horse_action2_json"
+		},
+		{
+			"url": "stage6/horse_action1.png",
+			"type": "image",
+			"name": "stage6_horse_action1_png"
+		},
+		{
+			"url": "stage6/horse_action2.png",
+			"type": "image",
+			"name": "stage6_horse_action2_png"
 		},
 		{
 			"url": "stage6/toy_action.png",

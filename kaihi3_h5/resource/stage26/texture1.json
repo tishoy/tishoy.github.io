@@ -1,0 +1,11 @@
+{"file":"texture1.png","frames":{
+"key2":{"x":0,"y":1822,"w":24,"h":41,"offX":2,"offY":3,"sourceW":27,"sourceH":47},
+"liroom":{"x":252,"y":1320,"w":91,"h":53,"offX":3,"offY":2,"sourceW":96,"sourceH":57},
+"wall":{"x":0,"y":0,"w":1520,"h":1320,"offX":0,"offY":0,"sourceW":1520,"sourceH":1320},
+"water1":{"x":91,"y":1769,"w":24,"h":13,"offX":1,"offY":1,"sourceW":27,"sourceH":17},
+"water2":{"x":252,"y":1373,"w":22,"h":13,"offX":1,"offY":2,"sourceW":26,"sourceH":18},
+"bucket":{"x":1520,"y":449,"w":62,"h":58,"offX":2,"offY":2,"sourceW":65,"sourceH":62},
+"class":{"x":0,"y":1769,"w":91,"h":53,"offX":3,"offY":2,"sourceW":96,"sourceH":57},
+"door1":{"x":0,"y":1320,"w":252,"h":449,"offX":5,"offY":5,"sourceW":261,"sourceH":458},
+"door2":{"x":1520,"y":0,"w":252,"h":449,"offX":5,"offY":5,"sourceW":261,"sourceH":458},
+"key1":{"x":1772,"y":0,"w":24,"h":41,"offX":2,"offY":3,"sourceW":27,"sourceH":47}}}

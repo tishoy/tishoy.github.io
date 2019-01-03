@@ -1,11 +1,11 @@
 {
 	"groups": [
 		{
-			"keys": "stage28_action_png,item_cat_ture,item_berry_bottle,item_berry,circle_png,square_png",
+			"keys": "stage28_old_action_png,stage28_sh_action_png,item_cat_ture,item_berry_bottle,item_berry,circle_png,square_png",
 			"name": "stage28_png"
 		},
 		{
-			"keys": "stage28_texture,stage28_action_json",
+			"keys": "stage28_texture1,stage28_texture2,stage28_old_action_json,stage28_sh_action_json",
 			"name": "stage28_json"
 		},
 		{
@@ -40,19 +40,34 @@
 			"name": "item_cat_ture"
 		},
 		{
-			"url": "stage28/action.png",
+			"url": "stage28/sh_action.png",
 			"type": "image",
-			"name": "stage28_action_png"
+			"name": "stage28_sh_action_png"
 		},
 		{
-			"url": "stage28/action.json",
+			"url": "stage28/sh_action.json",
 			"type": "json",
-			"name": "stage28_action_json"
+			"name": "stage28_sh_action_json"
 		},
 		{
-			"url": "stage28/texture.json",
+			"url": "stage28/old_action.png",
+			"type": "image",
+			"name": "stage28_old_action_png"
+		},
+		{
+			"url": "stage28/old_action.json",
+			"type": "json",
+			"name": "stage28_old_action_json"
+		},
+		{
+			"url": "stage28/texture1.json",
 			"type": "sheet",
-			"name": "stage28_texture"
+			"name": "stage28_texture1"
+		},
+		{
+			"url": "stage28/texture2.json",
+			"type": "sheet",
+			"name": "stage28_texture2"
 		},
 		{
 			"url": "stage28/48_KorogariSound.mp3",

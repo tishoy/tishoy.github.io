@@ -1,0 +1,6 @@
+{"file":"audiance.png","frames":{
+"audiance_back":{"x":1,"y":1,"w":880,"h":782,"offX":0,"offY":8,"sourceW":880,"sourceH":790},
+"audiance_front":{"x":883,"y":1,"w":880,"h":713,"offX":0,"offY":3,"sourceW":880,"sourceH":716},
+"audiance_right":{"x":883,"y":716,"w":195,"h":259,"offX":3,"offY":7,"sourceW":202,"sourceH":268},
+"audiance_up":{"x":1,"y":785,"w":880,"h":197,"offX":0,"offY":6,"sourceW":880,"sourceH":203},
+"audiance_left":{"x":1080,"y":716,"w":138,"h":290,"offX":2,"offY":6,"sourceW":144,"sourceH":300}}}

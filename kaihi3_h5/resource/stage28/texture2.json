@@ -1,0 +1,4 @@
+{"file":"texture2.png","frames":{
+"bg":{"x":0,"y":0,"w":1080,"h":660,"offX":0,"offY":0,"sourceW":1080,"sourceH":660},
+"dark":{"x":0,"y":660,"w":997,"h":660,"offX":83,"offY":0,"sourceW":1080,"sourceH":660},
+"road":{"x":0,"y":1320,"w":1080,"h":28,"offX":0,"offY":3,"sourceW":1080,"sourceH":35}}}

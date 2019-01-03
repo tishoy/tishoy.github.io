@@ -1,11 +1,11 @@
 {
 	"groups": [
 		{
-			"keys": "stage26_action_png,item_water_bucket,item_empty_bucket,item_key",
+			"keys": "stage26_action_png,item_water_bucket,item_empty_bucket,item_key,stage26_bg_png",
 			"name": "stage26_png"
 		},
 		{
-			"keys": "stage26_texture,stage26_action_json",
+			"keys": "stage26_texture1,stage26_action_json",
 			"name": "stage26_json"
 		},
 		{
@@ -14,6 +14,11 @@
 		}
 	],
 	"resources": [
+		{
+			"url": "stage26/bg.png",
+			"type": "image",
+			"name": "stage26_bg_png"
+		},
 		{
 			"url": "stage26/item_water_bucket.png",
 			"type": "image",
@@ -42,7 +47,7 @@
 		{
 			"url": "stage26/texture.json",
 			"type": "sheet",
-			"name": "stage26_texture"
+			"name": "stage26_texture1"
 		},
 		{
 			"url": "stage26/12_Water5Sound.mp3",

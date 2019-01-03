@@ -1,11 +1,11 @@
 {
 	"groups": [
 		{
-			"keys": "stage25_action_png,item_weeder,item_cup,item_bread",
+			"keys": "stage25_sh_action_png,stage25_other_action_png,item_weeder,item_cup,item_bread",
 			"name": "stage25_png"
 		},
 		{
-			"keys": "stage25_texture,stage25_action_json",
+			"keys": "stage25_texture,stage25_sh_action_json,stage25_other_action_json",
 			"name": "stage25_json"
 		},
 		{
@@ -30,14 +30,24 @@
 			"name": "item_weeder"
 		},
 		{
-			"url": "stage25/action.png",
+			"url": "stage25/other_action.png",
 			"type": "image",
-			"name": "stage25_action_png"
+			"name": "stage25_other_action_png"
 		},
 		{
-			"url": "stage25/action.json",
+			"url": "stage25/other_action.json",
 			"type": "json",
-			"name": "stage25_action_json"
+			"name": "stage25_other_action_json"
+		},
+		{
+			"url": "stage25/sh_action.png",
+			"type": "image",
+			"name": "stage25_sh_action_png"
+		},
+		{
+			"url": "stage25/sh_action.json",
+			"type": "json",
+			"name": "stage25_sh_action_json"
 		},
 		{
 			"url": "stage25/texture.json",

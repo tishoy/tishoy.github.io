@@ -1,11 +1,11 @@
 {
 	"groups": [
 		{
-			"keys": "stage29_action_png,stage29_women_action_png,item_peper,item_try_taste_stick,item_hundred_one_yuan,item_hundred_yuan,item_yellow_eggs,item_try_taste,item_fries,item_carrot,item_white_eggs,item_potato,item_beaf,item_on_sale,item_tomato,item_durian,item_fish_fillet,item_drumsticks,item_garlic",
+			"keys": "stage29_action_png,stage29_women_action_png,item_peper,item_try_taste_stick,item_hundred_one_yuan,item_hundred_yuan,item_yellow_eggs,item_try_taste,item_fries,item_carrot,item_white_eggs,item_potato,item_beaf,item_on_sale,item_tomato,item_durian,item_fish_fillet,item_drumsticks,item_garlic,stage29_bg_png",
 			"name": "stage29_png"
 		},
 		{
-			"keys": "stage29_texture,stage29_action_json,stage29_women_action_json",
+			"keys": "stage29_texture1,stage29_action_json,stage29_women_action_json",
 			"name": "stage29_json"
 		},
 		{
@@ -14,6 +14,11 @@
 		}
 	],
 	"resources": [
+		{
+			"url": "stage29/bg.png",
+			"type": "image",
+			"name": "stage29_bg_png"
+		},
 		{
 			"url": "stage29/item_peper.png",
 			"type": "image",
@@ -122,7 +127,7 @@
 		{
 			"url": "stage29/texture.json",
 			"type": "sheet",
-			"name": "stage29_texture"
+			"name": "stage29_texture1"
 		},
 		{
 			"url": "stage29/4_JumpSound.mp3",

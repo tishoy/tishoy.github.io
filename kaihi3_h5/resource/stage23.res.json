@@ -1,11 +1,11 @@
 {
 	"groups": [
 		{
-			"keys": "stage23_action_png,item_peper,item_flashlight",
+			"keys": "stage23_action_png,item_peper,item_flashlight,stage23_bg_png",
 			"name": "stage23_png"
 		},
 		{
-			"keys": "stage23_texture,stage23_action_json",
+			"keys": "stage23_texture1,stage23_action_json",
 			"name": "stage23_json"
 		},
 		{
@@ -14,6 +14,11 @@
 		}
 	],
 	"resources": [
+		{
+			"url": "stage23/bg.png",
+			"type": "image",
+			"name": "stage23_bg_png"
+		},
 		{
 			"url": "stage23/item_peper.png",
 			"type": "image",
@@ -35,9 +40,9 @@
 			"name": "stage23_action_json"
 		},
 		{
-			"url": "stage23/texture.json",
+			"url": "stage23/texture1.json",
 			"type": "sheet",
-			"name": "stage23_texture"
+			"name": "stage23_texture1"
 		},
 		{
 			"url": "stage23/4_JumpSound.mp3",

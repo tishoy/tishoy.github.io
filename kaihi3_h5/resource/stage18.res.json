@@ -1,11 +1,11 @@
 {
 	"groups": [
 		{
-			"keys": "stage18_action_png,item_red_ball,item_blue_ball,item_robot_ball",
+			"keys": "stage18_action1_png,stage18_action2_png,item_red_ball,item_blue_ball,item_robot_ball",
 			"name": "stage18_png"
 		},
 		{
-			"keys": "stage18_texture,stage18_action_json",
+			"keys": "stage18_texture,stage18_action1_json,stage18_action2_json",
 			"name": "stage18_json"
 		},
 		{
@@ -30,14 +30,24 @@
 			"name": "item_robot_ball"
 		},
 		{
-			"url": "stage18/action.png",
+			"url": "stage18/action1.png",
 			"type": "image",
-			"name": "stage18_action_png"
+			"name": "stage18_action1_png"
 		},
 		{
-			"url": "stage18/action.json",
+			"url": "stage18/action1.json",
 			"type": "json",
-			"name": "stage18_action_json"
+			"name": "stage18_action1_json"
+		},
+		{
+			"url": "stage18/action2.png",
+			"type": "image",
+			"name": "stage18_action2_png"
+		},
+		{
+			"url": "stage18/action2.json",
+			"type": "json",
+			"name": "stage18_action2_json"
 		},
 		{
 			"url": "stage18/texture.json",

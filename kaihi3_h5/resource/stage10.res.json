@@ -1,11 +1,11 @@
 {
 	"groups": [
 		{
-			"keys": "stage10_action_png,stage10_crash_png,item_iceshoes,item_bottle",
+			"keys": "stage10_action_png,stage10_crash1_png,item_iceshoes,item_bottle",
 			"name": "stage10_png"
 		},
 		{
-			"keys": "stage10_texture,stage10_action_json,stage10_crash_json",
+			"keys": "stage10_texture,stage10_action_json,stage10_crash1_json",
 			"name": "stage10_json"
 		},
 		{
@@ -25,14 +25,14 @@
 			"name": "item_bottle"
 		},
 		{
-			"url": "stage10/crash.png",
+			"url": "stage10/crash1.png",
 			"type": "image",
-			"name": "stage10_crash_png"
+			"name": "stage10_crash1_png"
 		},
 		{
-			"url": "stage10/crash.json",
+			"url": "stage10/crash1.json",
 			"type": "json",
-			"name": "stage10_crash_json"
+			"name": "stage10_crash1_json"
 		},
 		{
 			"url": "stage10/action.png",

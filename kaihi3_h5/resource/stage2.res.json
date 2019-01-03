@@ -5,7 +5,7 @@
 			"name": "stage2_png"
 		},
 		{
-			"keys": "stage2_texture,stage2_role_action_json,stage2_fight_lose_json",
+			"keys": "stage2_texture1,stage2_role_action_json,stage2_fight_lose_json,audiance_texture",
 			"name": "stage2_json"
 		},
 		{
@@ -40,9 +40,14 @@
 			"name": "stage2_role_action_json"
 		},
 		{
-			"url": "stage2/texture.json",
+			"url": "stage2/audiance.json",
 			"type": "sheet",
-			"name": "stage2_texture"
+			"name": "audiance_texture"
+		},
+		{
+			"url": "stage2/texture1.json",
+			"type": "sheet",
+			"name": "stage2_texture1"
 		},
 		{
 			"url": "stage2/78_KickSound.mp3",

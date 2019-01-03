@@ -1,11 +1,11 @@
 {
 	"groups": [
 		{
-			"keys": "stage30_action_png,stage30_ball_action_png,item_banana_skin,item_jungle_bell,item_little_ming,item_banana,item_brother",
+			"keys": "stage30_action1_png,stage30_action2_png,stage30_action3_png,stage30_ball_action_png,item_banana_skin,item_jungle_bell,item_little_ming,item_banana,item_brother",
 			"name": "stage30_png"
 		},
 		{
-			"keys": "stage30_texture,stage30_action_json,stage30_ball_action_json",
+			"keys": "stage30_texture1,stage30_texture2,stage30_action1_json,stage30_action2_json,stage30_action3_json,stage30_ball_action_json",
 			"name": "stage30_json"
 		},
 		{
@@ -40,14 +40,34 @@
 			"name": "item_banana_skin"
 		},
 		{
-			"url": "stage30/action.png",
+			"url": "stage30/action1.png",
 			"type": "image",
-			"name": "stage30_action_png"
+			"name": "stage30_action1_png"
 		},
 		{
-			"url": "stage30/action.json",
+			"url": "stage30/action1.json",
 			"type": "json",
-			"name": "stage30_action_json"
+			"name": "stage30_action1_json"
+		},
+		{
+			"url": "stage30/action2.png",
+			"type": "image",
+			"name": "stage30_action2_png"
+		},
+		{
+			"url": "stage30/action2.json",
+			"type": "json",
+			"name": "stage30_action2_json"
+		},
+		{
+			"url": "stage30/action3.png",
+			"type": "image",
+			"name": "stage30_action3_png"
+		},
+		{
+			"url": "stage30/action3.json",
+			"type": "json",
+			"name": "stage30_action3_json"
 		},
 		{
 			"url": "stage30/ball_action.png",
@@ -60,9 +80,14 @@
 			"name": "stage30_ball_action_json"
 		},
 		{
-			"url": "stage30/texture.json",
+			"url": "stage30/texture1.json",
 			"type": "sheet",
-			"name": "stage30_texture"
+			"name": "stage30_texture1"
+		},
+		{
+			"url": "stage30/texture2.json",
+			"type": "sheet",
+			"name": "stage30_texture2"
 		},
 		{
 			"url": "stage30/4_JumpSound.mp3",

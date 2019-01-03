@@ -1,0 +1,4 @@
+{"file":"texture2.png","frames":{
+"wall":{"x":0,"y":1056,"w":1080,"h":38,"offX":0,"offY":2,"sourceW":1080,"sourceH":40},
+"bg":{"x":0,"y":0,"w":1080,"h":660,"offX":0,"offY":0,"sourceW":1080,"sourceH":660},
+"ground":{"x":0,"y":660,"w":1080,"h":395,"offX":0,"offY":4,"sourceW":1080,"sourceH":399}}}
