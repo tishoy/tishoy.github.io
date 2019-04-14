@@ -1,0 +1,40 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,cancel_png,accept_png,go_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "go_png",
+			"type": "image",
+			"url": "assets/continueBtn.png"
+		},
+		{
+			"name": "accept_png",
+			"type": "image",
+			"url": "assets/acceptBtn.png"
+		},
+		{
+			"name": "cancel_png",
+			"type": "image",
+			"url": "assets/cancelBtn.png"
+		},
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		}
+	]
+}
